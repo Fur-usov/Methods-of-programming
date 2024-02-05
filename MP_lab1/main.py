@@ -2,6 +2,8 @@ import csv
 import datetime
 from datetime import datetime
 import time
+import matplotlib.pyplot as plt
+import numpy as np
 
 # Урусов Фёдор СКБ211
 # варинат 23
@@ -178,77 +180,116 @@ def split_and_merge_list(a):
     if len(a2) > 1:  # если длина 2-го списка больше 1, то делим дальше
         a2 = split_and_merge_list(a2)
 
-
-
     return merge_list(a1, a2)  # слияние двух отсортированных списков в один
 
 
+
 # ввод данных из файла
-unsorted_data = list()
-with open('ships_5000.csv', encoding="utf-8") as file:
-    next(file)
-    for row in file:
-        r = row.strip().split(",")
-        w = Ship(r[0], datetime.strptime(r[1], "%d-%m-%Y"), r[2], r[3], r[4])
-        unsorted_data.append(w)
 
-#делаем три набора данных
-unsorted_data_1 = unsorted_data_2 = unsorted_data_3 = unsorted_data.copy()
-print(f'Длина списка: {len(unsorted_data)}')
+data = {}
+n = [100, 1000, 5000, 10000, 50000, 100000]
+for i in n:
+    unsorted_data = list()
+    with open(f'ships_{i}.csv', encoding="utf-8") as file:
+        next(file)
+        for row in file:
+            r = row.strip().split(",")
+            w = Ship(r[0], datetime.strptime(r[1], "%d-%m-%Y"), r[2], r[3], r[4])
+            unsorted_data.append(w)
 
-line()
-print('\nНе сортированные данные')
-# Вывод изначальных данных
-for i in unsorted_data:
+
+    #делаем три набора данных
+    unsorted_data_1 = unsorted_data_2 = unsorted_data_3 = unsorted_data.copy()
+    print()
+    print(f'Длина списка: {len(unsorted_data)}')
+
     if IsPrinted:
-        i.pr()
-line()
+        line()
+        print('\nНе сортированные данные')
+        # Вывод изначальных данных
+        for i in unsorted_data:
+            i.pr()
+        line()
 
-print('\n')
+    print()
 
-line()
-print('Сортировка вставками')
-start_time1 = time.time()  # Запоминаем время начала выполнения
-sorted_data_1 = sort_insert(unsorted_data_1)
-end_time1 = time.time()  # Запоминаем время окончания выполнения
-print(f'Длина списка: {len(unsorted_data_1)}')
-time1 = end_time1 - start_time1
-print(f"Время выполнения: {time1} секунд")
-for i in sorted_data_1:
+    print('Сортировка вставками')
+    start_time1 = time.time()  # Запоминаем время начала выполнения
+    sorted_data_1 = sort_insert(unsorted_data_1)
+    end_time1 = time.time()  # Запоминаем время окончания выполнения
+    time1 = end_time1 - start_time1
+    print(f"Время выполнения: {time1} секунд")
+
     if IsPrinted:
-        i.pr()
-line()
+        line()
+        for i in sorted_data_1:
+            i.pr()
+        line()
 
-print("\n")
+    print()
 
-line()
-print('Пирамидальная сортировка')
-start_time2 = time.time()  # Запоминаем время начала выполнения
-sorted_data_2 = heap_sort(unsorted_data_2)
-end_time2 = time.time()  # Запоминаем время окончания выполнения
-print(f'Длина списка: {len(unsorted_data_2)}')
-time2 = end_time2 - start_time2
-print(f"Время выполнения: {time2} секунд")
-for i in sorted_data_2:
+    print('Пирамидальная сортировка')
+    start_time2 = time.time()  # Запоминаем время начала выполнения
+    sorted_data_2 = heap_sort(unsorted_data_2)
+    end_time2 = time.time()  # Запоминаем время окончания выполнения
+    time2 = end_time2 - start_time2
+    print(f"Время выполнения: {time2} секунд")
+
     if IsPrinted:
-        i.pr()
-line()
+        line()
+        for i in sorted_data_2:
+            if IsPrinted:
+                i.pr()
+        line()
 
-print("\n")
+    print()
 
-line()
-print('Сортировка слиянием')
-start_time3 = time.time()  # Запоминаем время начала выполнения
-sorted_data_3 = split_and_merge_list(unsorted_data_3)
-end_time3 = time.time()  # Запоминаем время окончания выполнения
-time3 = end_time3 - start_time3
+    print('Сортировка слиянием')
+    start_time3 = time.time()  # Запоминаем время начала выполнения
+    sorted_data_3 = split_and_merge_list(unsorted_data_3)
+    end_time3 = time.time()  # Запоминаем время окончания выполнения
+    time3 = end_time3 - start_time3
+    print(f"Время выполнения: {time3} секунд")
 
-print(f'Длина списка: {len(unsorted_data_3)}')
-print(f"Время выполнения: {time3} секунд")
-
-for i in sorted_data_3:
     if IsPrinted:
-        i.pr()
+        line()
+        for i in sorted_data_3:
+            i.pr()
+        line()
 
-line()
-#line
+    line()
+
+    l = len(unsorted_data)
+    data[l] = (time1, time2, time3)
+
+
+
+
+
+
+N = len(data.keys())
+ind = np.arange(N)
+width = 0.27
+
+yvals = [time1 for time1, time2, time3 in data.values()]
+rects1 = plt.bar(ind, yvals, width, color='r')
+zvals = [time2 for time1, time2, time3 in data.values()]
+rects2 = plt.bar(ind+width, zvals, width, color='g')
+kvals = [time3 for time1, time2, time3 in data.values()]
+rects3 = plt.bar(ind+width*2, kvals, width, color='b')
+
+plt.ylabel('Время выполнения')
+plt.xticks(ind+width, data.keys())
+plt.legend((rects1[0], rects2[0], rects3[0]), ('сортировка простыми вставками', 'пирамидальная сортировка', 'сортировка слиянием'))
+
+def autolabel(rects):
+    for rect in rects:
+        h = rect.get_height()
+        plt.text(rect.get_x()+rect.get_width()/2., 1.05*h, '%d'%int(h),
+                ha='center', va='bottom')
+
+autolabel(rects1)
+autolabel(rects2)
+autolabel(rects3)
+
+plt.show()
