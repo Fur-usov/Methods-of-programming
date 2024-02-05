@@ -1,0 +1,1001 @@
+Ship,Date,country,shiptype,captain_name
+HMAS Goolgwai,26-04-1623,Sweden,Container Ship,Thuban
+Minekaze,08-09-1593,Mauritius,Bulk Carrier,Menkent
+SS Express,02-10-1729,Norway,Container Ship,Alkaid
+HMS Invincible,18-04-1659,Sweden,FSO,Tabit
+Yūgiri,23-04-1948,Panama,Crude Oil Tanker,Anser
+USS Atlanta,10-05-1630,United Kingdom (UK),Passenger (Cruise) Ship,Salm
+Amaryllis,01-12-1639,Estonia,Crude Oil Tanker,Zubeneschamali
+HMS Laforey,03-06-1962,India,Bulk Carrier,Alsephina
+U-360,11-08-1903,Angola,Container Ship,Regulus
+HMS Coquette,23-08-1655,Egypt,LNG Tanker,Aludra
+John S. Dwight,10-04-1881,Croatia,Crude Oil Tanker,Albireo
+Ruby,19-09-1897,Norway,Container Ship,Barnard’s Star
+Lisbon Maru,22-01-1819,Faeroe Islands,Passenger (Cruise) Ship,Hassaleh
+Marvale,20-09-1558,Italy,Crude Oil Tanker,Okab
+HMS Mahratta,15-04-1909,France,Container Ship,Algedi
+City of Venice,09-07-1815,Turkey,Bulk Carrier,Intercrus
+MV Gwendoline Steers,28-06-1993,Norway,Bulk Carrier,Haedus
+HMS Dragon,25-05-1572,Netherlands,Bulk Carrier,Cujam
+Rockingham,10-03-1984,Sao Tome & Principe,LNG Tanker,Khambalia
+SS Thistlegorm,12-09-1844,Panama,Bulk Carrier,Mesarthim
+HMS Nymph,02-08-1672,United Kingdom (UK),Crude Oil Tanker,Sadalmelik
+Hero of the Nile,26-12-1813,Netherlands,Container Ship,Ascella
+Eleni K,20-12-1753,Norway,LNG Tanker,Toliman
+Tyee,31-05-1620,United Kingdom (UK),LNG Tanker,Pollux
+USS Katahdin,05-05-1689,Canada,Bulk Carrier,Mizar
+Meisho Maru No. 38,31-10-1813,Mauritius,Bulk Carrier,Sadalsuud
+Novelty,10-05-1589,Japan,Crude Oil Tanker,Merak
+USS Snowden,15-12-1886,Papua New Guinea,LNG Tanker,Taiyangshou
+FV Gaul,02-09-1520,Norway,Bulk Carrier,Acrab
+U-441,13-04-1505,Brazil,Container Ship,Achernar
+SS Chickasaw,24-06-1680,Iceland,Bulk Carrier,Shaula
+USS Sloat,20-05-1585,Iran,Crude Oil Tanker,Sadalsuud
+Kinugawa Maru,05-05-1921,Mauritius,Container Ship,Algenib
+U-268,20-11-1683,Iceland,Bulk Carrier,Unukalhai
+SS Noronic,05-11-1538,United Kingdom (UK),LNG Tanker,Rasalhague
+Cais do Sodré shipwreck,24-03-1879,Sweden,LNG Tanker,Aljanah
+HMS Tyger,01-02-1809,United States (USA),Bulk Carrier,Sadalsuud
+U-670,23-07-1933,China,Passenger (Cruise) Ship,Elnath
+SS Sapona,23-10-1951,Estonia,Container Ship,Altair
+SS Persier,27-12-1939,Canada,Bulk Carrier,Mekbuda
+U-736,16-06-1722,Canada,Bulk Carrier,Alnasl
+HMS Inglefield,28-05-1630,Canada,Bulk Carrier,Yildun
+HMS Affray,25-04-1599,Canada,Bulk Carrier,Dschubba
+I-166,23-06-1913,United States (USA),Bulk Carrier,Pollux
+Shch-213,26-12-1562,Japan,Container Ship,Algedi
+SS City of Columbus,04-10-1652,Libya,Container Ship,Maasym
+Brunswick,18-12-1774,Sweden,Crude Oil Tanker,Alsephina
+Washington Irving,19-11-1980,Togolese Rep,Bulk Carrier,Fuyue
+HMS Acheron,20-01-1934,Puerto Rico,Bulk Carrier,Alphard
+SS Marlin,18-06-1670,Panama,LNG Tanker,Mirach
+HNLMS De Ruyter,13-05-1993,Sweden,Crude Oil Tanker,Alphecca
+St. Peter,06-05-1993,Japan,Container Ship,Merope
+Le Tigre,28-04-1843,Sweden,Container Ship,Alkaid
+Wayzata Bay Wreck,09-02-1907,Faeroe Islands,LNG Tanker,Situla
+South Australian,21-02-1660,United Kingdom (UK),Crude Oil Tanker,Barnard’s Star
+SS Mirlo,29-07-2001,Turkmenistan,Container Ship,Alkes
+Calburga,14-12-1570,Japan,Bulk Carrier,Polaris
+HMS Khartoum,14-08-1549,United States (USA),Container Ship,Misam
+Charles Devans,24-11-1977,New Zealand,Passenger (Cruise) Ship,Nekkar
+Tyee,27-03-1600,France,Bulk Carrier,Aspidiske
+San Blas,22-10-1900,Argentina,Bulk Carrier,Taiyangshou
+USS Delphy,16-03-1929,Solomon Islands,Container Ship,Denebola
+Kogyo Maru,24-09-1783,Japan,Bulk Carrier,Nashira
+Kasi Maru,02-04-1682,Norway,LNG Tanker,Rotanev
+Jennie P. King,13-02-1981,US Minor Outlying Isls,Passenger (Cruise) Ship,Lilii Borea
+Madiera,21-12-1755,Sweden,Container Ship,Giausar
+HMS Limbourne,15-11-1739,Finland,FSO,Khambalia
+Commercial Dixie,12-05-1960,South Africa,Container Ship,Alpheratz
+Clan Ranald,20-05-1578,Greece,LNG Tanker,Sulafat
+PNS Khaibar,08-03-1820,Faeroe Islands,Bulk Carrier,Rukbat
+UC-64,15-11-1655,United States (USA),Crude Oil Tanker,Alfirk
+Augustus,14-11-1877,Egypt,LNG Tanker,Rukbat
+USS Devilfish,11-06-1659,Haiti,Bulk Carrier,Jishui
+"""Frenchman wreck""",01-09-1780,Libya,LNG Tanker,Hadar
+Brant,28-04-1801,Egypt,Crude Oil Tanker,Praecipua
+SS American Star,23-07-1935,Spain,LNG Tanker,Brachium
+Frontenac,26-09-1912,United Kingdom (UK),Bulk Carrier,Enif
+HMS Capel,26-08-1786,Japan,Bulk Carrier,Mintaka
+Koolama,11-12-1843,United States (USA),Bulk Carrier,Naos
+HMS Bulwark,27-03-1883,Puerto Rico,LNG Tanker,Heze
+Tokai Maru,23-08-1643,Haiti,Bulk Carrier,Adhara
+YP-284,30-12-1619,Brazil,Bulk Carrier,Merak
+HMIS Indus,19-01-1977,Norway,Container Ship,Yed Posterior
+HMS Goldfinch,17-03-1857,Denmark,Crude Oil Tanker,Aludra
+SS Ajax,18-12-1755,Canada,Bulk Carrier,Suhail
+SS City of Bradford,27-01-1581,Russia,Bulk Carrier,Algenib
+Clallam,17-06-2004,Turkey,Container Ship,Almaaz
+ORP Dragon,28-11-1558,Isle of Man,Bulk Carrier,Tureis
+Canton,06-01-1952,Indonesia,Crude Oil Tanker,Achird
+USS Tecumseh,10-12-2009,United Kingdom (UK),Bulk Carrier,Ain
+Joys,20-07-1812,United States (USA),Bulk Carrier,Mahasim
+MV C.O. Stillman,05-07-1669,Greece,Container Ship,Grumium
+U-654,27-02-1622,Germany,LNG Tanker,Bunda
+SMS Blücher,06-09-1632,Dominican Rep,Bulk Carrier,Atlas
+Tokai Maru,19-08-1956,Netherlands,Crude Oil Tanker,Suhail
+Laguna,09-11-1968,United Kingdom (UK),Bulk Carrier,Tegmine
+HMS Hermes,08-08-1828,Puerto Rico,Crude Oil Tanker,Diphda
+Vamar,21-02-1806,Japan,Bulk Carrier,Sadr
+Alert,13-10-1822,United States (USA),Bulk Carrier,Brachium
+USS Kendrick (DD-612),23-04-1751,Estonia,Bulk Carrier,Misam
+Bezerra de Menezes,09-01-1716,United Kingdom (UK),Crude Oil Tanker,Gacrux
+Atlanta,07-02-1729,India,Crude Oil Tanker,Kaus Australis
+Giuseppe Garibaldi,04-03-1918,Germany,Bulk Carrier,Muphrid
+SS Rye,06-05-1936,Canada,Container Ship,Shaula
+Kapodistrias,05-02-1728,Poland,Bulk Carrier,Yed Prior
+Rosalind,04-05-1783,Turkmenistan,Crude Oil Tanker,Ukdah
+Lord Clarendon,17-09-1584,Canada,LNG Tanker,Misam
+Agnes Irving,21-09-1525,Greece,Crude Oil Tanker,Vindemiatrix
+HMS Invincible,14-09-1737,United States (USA),Bulk Carrier,Rigel
+Adel,06-08-2010,Canada,LNG Tanker,Kochab
+Spanish ship San Pedro de Alcantara,29-09-1730,Norway,Bulk Carrier,Alkaid
+UC-10,01-01-1741,United States (USA),Bulk Carrier,Praecipua
+USS George F. Elliott,20-01-1719,Sweden,Passenger (Cruise) Ship,Miaplacidus
+HMCS Louisburg,20-09-1750,Norway,Container Ship,Mirach
+Samuel Heintzelman,29-01-1631,Philippines,Bulk Carrier,Alterf
+Alexander Nevsky,20-09-1767,Japan,Bulk Carrier,Mintaka
+Robert,11-07-1606,United States (USA),Bulk Carrier,Hassaleh
+King Philip,09-10-1736,Puerto Rico,LNG Tanker,Fafnir
+Anscomb,17-11-2004,Canada,LNG Tanker,Veritate
+Hickory Stick,25-09-1925,Turkey,Bulk Carrier,Ran
+Mussel,04-12-1954,Indonesia,Passenger (Cruise) Ship,Algenib
+USS Gregory,10-10-1894,Germany,LNG Tanker,Alniyat
+Mtongwe,03-11-1596,Sweden,Bulk Carrier,Castor
+HMS Buffalo,25-07-1851,Vietnam,Bulk Carrier,Taiyangshou
+St. James,31-05-1940,Montenegro,LNG Tanker,Zaurak
+Cottoneva,07-11-1576,Estonia,Container Ship,Saclateni
+U-777,29-06-1997,Norway,LNG Tanker,Alkes
+Vamar,23-05-1975,Dominican Rep,LNG Tanker,Merope
+USS New England,21-04-1560,Canada,Container Ship,Wezen
+Alice H.,04-04-1815,United States (USA),LNG Tanker,Tania Borealis
+Yūgiri,16-10-1811,Canada,Container Ship,Taiyi
+SS Arratoon Apcar,25-07-1581,Greece,Container Ship,Betelgeuse
+HMAS Encounter,26-10-1575,United States (USA),Container Ship,Mebsuta
+552,24-07-1954,United Kingdom (UK),Bulk Carrier,Sheratan
+HMS Abdiel,13-06-1791,Norway,Container Ship,Pipirima
+S.F. Gale,25-11-1931,Korea,Bulk Carrier,Deneb Algedi
+Poelau Roebiah,30-10-1991,Dominican Rep,LNG Tanker,Homam
+Chattanooga,20-02-1784,Germany,LNG Tanker,Deneb Algedi
+Wakatake,16-06-1722,Chile,Passenger (Cruise) Ship,Alula Australis
+Mariotte,02-01-1631,Australia,Crude Oil Tanker,Sham
+SS Prins Olav,28-11-1977,Equatorial Guinea,Bulk Carrier,Polis
+USS Otsego,13-10-1981,Norway,Crude Oil Tanker,Sheliak
+Galeka,26-05-1998,Latvia,Bulk Carrier,Nashira
+U-1302,27-10-1806,United Kingdom (UK),Container Ship,Sham
+Hartwell,21-06-1586,Jamaica,Container Ship,Sheliak
+Robert Coryndon,19-06-1714,Japan,LNG Tanker,Angetenar
+SS F.W. Abrams,02-01-1670,United States (USA),Container Ship,Helvetios
+HMS Repulse,02-05-1672,Italy,Bulk Carrier,Porrima
+USS Beale,17-07-1687,India,Crude Oil Tanker,Hamal
+Clallam,15-04-1806,Croatia,Bulk Carrier,Alula Borealis
+SS Sapona,15-10-1863,United States (USA),LNG Tanker,Subra
+Eagle,31-12-1548,New Caledonia,Bulk Carrier,Nihal
+HMAS Maroubra,07-06-1587,Mauritius,Bulk Carrier,Betelgeuse
+Loch Vennachar,17-02-1674,Turkey,LNG Tanker,Kaus Australis
+USS Buck,15-07-1980,Norway,LNG Tanker,Electra
+Amatsukaze,28-11-1505,Japan,Container Ship,Tianguan
+HNoMS Norge,03-08-1732,Egypt,Passenger (Cruise) Ship,Sadalsuud
+USS Vermilion,12-11-1553,Japan,Bulk Carrier,Xamidimura
+HMS Eden,01-03-1920,Belgium,LNG Tanker,Altair
+Tassie III,04-05-1586,Greece,Bulk Carrier,Celaeno
+USS S-37,20-05-1828,Croatia,LNG Tanker,Proxima Centauri
+HMS Goodall,28-11-1550,United Kingdom (UK),Container Ship,Antares
+Allah Mina,19-11-1608,Netherlands,Container Ship,Beid
+Fin Barge,11-01-1822,Norway,LNG Tanker,Pherkad
+U-637,18-04-1927,Italy,Container Ship,Shaula
+U-316,11-04-1525,Belgium,Container Ship,Haedus
+I-166,09-07-1815,Faeroe Islands,Bulk Carrier,Almach
+Zovetto,31-08-1507,India,Container Ship,Marfik
+Gussie Telfair,27-07-1841,China,Bulk Carrier,Pherkad
+U-235,14-08-1844,Italy,LNG Tanker,Revati
+Samuel Heintzelman,23-04-1882,Japan,LNG Tanker,Tania Borealis
+USS Aaron Ward,05-10-1782,Canada,Bulk Carrier,La Superba
+Kad’yak,02-06-1546,India,Bulk Carrier,Heze
+Myōkō,18-03-1604,Turkey,LNG Tanker,Alcor
+Jennie P. King,20-02-1962,Japan,Bulk Carrier,Alkalurops
+Hibernia,15-05-1758,United States (USA),Crude Oil Tanker,Polaris Australis
+HMS Li Wo,20-08-1853,Estonia,LNG Tanker,Sadachbia
+USS Jacob Jones,14-10-1975,Italy,Container Ship,Wurren
+USCGC Cuyahoga,12-06-1888,Canada,Crude Oil Tanker,Sadachbia
+Beaumaris Castle,16-11-1957,Italy,Passenger (Cruise) Ship,Nihal
+Knyaz Suvorov,11-10-1938,Sao Tome & Principe,Crude Oil Tanker,Segin
+HMS Conqueror,06-11-1877,Japan,Container Ship,Wezen
+USS Majaba,22-02-1816,Norway,Passenger (Cruise) Ship,Yildun
+Rawleigh Warner,22-11-1895,Solomon Islands,Container Ship,Haedus
+CGS Aberdeen,09-10-1977,Solomon Islands,LNG Tanker,Alpheratz
+USCS Robert J. Walker,08-10-1880,Greece,Bulk Carrier,Scheat
+SS Northeastern,13-01-1663,Turkey,Bulk Carrier,Mirach
+Samuel P. Ely,25-04-1717,United States (USA),Container Ship,Alnair
+HMAS Perth,30-08-1608,Iceland,Bulk Carrier,Rigil Kentaurus
+Wanjiao One,10-11-1848,Canada,Crude Oil Tanker,Chalawan
+Laura Grace,12-04-1564,Norway,Bulk Carrier,Denebola
+HMAS Canberra,20-02-1505,Norway,Container Ship,Arkab Prior
+Allah Mina,20-10-1745,Canada,Container Ship,Chalawan
+Postboy,10-04-1614,Chile,Bulk Carrier,Kang
+Alpha,04-09-1970,France,Container Ship,Hatysa
+SS Theodore Parker,10-03-1517,New Zealand,Container Ship,Khambalia
+USS Tide,03-05-1968,Japan,Crude Oil Tanker,Zubenelhakrabi
+Magdapur,09-03-1963,Canada,Container Ship,Lesath
+U-979,28-07-1550,Canada,Passenger (Cruise) Ship,Alderamin
+SS Robert Wallace,17-06-1723,Japan,Crude Oil Tanker,Proxima Centauri
+SMS Brummer,28-12-2002,Norway,Bulk Carrier,Matar
+Volo,25-04-1924,Greece,Container Ship,Errai
+Diamond,07-03-1788,United States (USA),LNG Tanker,Muphrid
+Sygna,20-05-1699,Canada,LNG Tanker,Beemim
+HMS Goodall,30-12-1820,United Kingdom (UK),Bulk Carrier,Alshat
+U-859,21-07-1501,Egypt,Container Ship,Markeb
+Stad Amsterdam,10-01-1915,Japan,Crude Oil Tanker,Azelfafage
+Cristóbal Colón,06-12-1726,Turkey,Bulk Carrier,Aldebaran
+USS Stewart,02-03-1614,Cyprus,LNG Tanker,Castor
+USS Underwriter,09-05-1575,Mauritius,Crude Oil Tanker,Alnasl
+SS Penguin,15-11-1739,Chile,Crude Oil Tanker,Atria
+Home,16-11-1836,Japan,Container Ship,Gudja
+William D. Sanner,01-05-1914,Turkey,Bulk Carrier,Ancha
+USS Swallow,06-10-1757,United Kingdom (UK),Bulk Carrier,Kaus Borealis
+Tennie and Laura,28-09-1588,United States (USA),Container Ship,Meridiana
+SS Cyprus,20-06-2006,Chile,Passenger (Cruise) Ship,Propus
+HMAS Goorangai,20-01-1821,Latvia,Crude Oil Tanker,Jabbah
+Great Basses wreck,06-02-1610,Italy,Crude Oil Tanker,Diadem
+SS Charles D. McIver,01-09-1622,United States (USA),Bulk Carrier,Errai
+Léopoldville,06-06-1859,Italy,Container Ship,Acubens
+MV Cita,04-07-1731,United Kingdom (UK),Container Ship,Dschubba
+HMS Wessex,14-04-1571,Netherlands,Container Ship,Gacrux
+Esmeralda,08-04-1602,Netherlands,Crude Oil Tanker,Meleph
+HMS Hurworth,09-08-1854,Japan,Bulk Carrier,Alterf
+Falcon,16-12-1938,Croatia,Crude Oil Tanker,Almach
+U-6,15-01-1793,United Kingdom (UK),Container Ship,Cursa
+HMS Hunter,18-11-1888,United States (USA),Bulk Carrier,Okab
+U-961,17-01-1690,Sweden,LNG Tanker,Xamidimura
+Harvest Home,12-11-1553,Canada,Bulk Carrier,Suhail
+U-701,13-08-1620,China,Bulk Carrier,Hatysa
+,25-12-1593,Croatia,Container Ship,Zubenelhakrabi
+Friendship,10-09-1669,Iceland,Bulk Carrier,Lesath
+Virginia,12-06-1623,United Kingdom (UK),Passenger (Cruise) Ship,Angetenar
+Persephone,17-08-1726,New Zealand,Bulk Carrier,Alcor
+Mary Barrett,13-11-1963,Italy,Bulk Carrier,Deneb Algedi
+Frederick,01-11-1852,Finland,LNG Tanker,Enif
+USS Burrfish,02-05-1941,United States (USA),Bulk Carrier,Albali
+CSS Forrest,08-10-1604,Norway,LNG Tanker,Kraz
+Kamikaze,01-02-1900,Canada,Container Ship,Almach
+Cimba,19-02-1980,Portugal,Container Ship,Tegmine
+Akatsuki,12-10-1798,United States (USA),Crude Oil Tanker,Haedus
+HMS Phoenix,28-06-1624,United Kingdom (UK),Bulk Carrier,Ogma
+Saros,23-02-1569,Australia,Bulk Carrier,Sceptrum
+Mystic,26-01-1956,United States (USA),Container Ship,Antares
+U-40,31-08-1522,Japan,Bulk Carrier,Chertan
+U-1172,04-01-1548,Japan,Bulk Carrier,Theemin
+SS Fort Lee,26-10-1882,Slovenia,Bulk Carrier,Bellatrix
+City of Richmond,02-01-1670,Estonia,LNG Tanker,Tonatiuh
+Hilda Garston,19-06-1824,Mexico,Bulk Carrier,Fang
+Cottoneva,02-03-1941,Faeroe Islands,LNG Tanker,Alcyone
+USAT Liberty,03-12-1537,Norway,Container Ship,Kaus Australis
+Arpenteur,21-06-1824,United Kingdom (UK),Crude Oil Tanker,Aljanah
+Daniel Lyons,21-03-1877,Norway,Container Ship,Zubeneschamali
+USCS Belle,25-07-1930,Bulgaria,Crude Oil Tanker,Cujam
+Humble SM-1,19-09-1929,Turkey,Container Ship,Zosma
+Meisho Maru No. 38,12-07-1638,Solomon Islands,Container Ship,Homam
+HMCS Saskatchewan,06-02-1991,Indonesia,LNG Tanker,Nahn
+Berwick,21-11-1684,Haiti,Container Ship,Unurgunite
+HMCS Saskatchewan,11-02-1780,Portugal,Container Ship,Ruchbah
+Cohansa,05-08-1560,United States (USA),Container Ship,Gomeisa
+Joys,27-08-1661,United Kingdom (UK),LNG Tanker,Alkarab
+MS Rigel,20-09-1558,South Africa,Container Ship,Merak
+USS St. Sebastian,06-07-1690,United States (USA),Container Ship,Scheat
+Astrea,26-11-1534,Solomon Islands,Container Ship,Dabih
+USS Rankin (AKA-103),30-03-1519,United Kingdom (UK),Passenger (Cruise) Ship,Brachium
+Pelinaion,03-03-1553,Japan,Bulk Carrier,Baten Kaitos
+SS Clan Macarthur,05-05-1808,United States (USA),Container Ship,Unurgunite
+Eldorado,19-04-1749,France,Container Ship,Sadr
+Water Witch,07-03-1948,Croatia,Crude Oil Tanker,Secunda Hyadum
+Artigliere,25-07-1806,Nicaragua,Crude Oil Tanker,Chara
+HMS M2,07-05-1890,Japan,Container Ship,Xamidimura
+Katowice,21-02-1629,Dominican Rep,LNG Tanker,Hadar
+Esso Nashville,20-09-1575,Germany,LNG Tanker,Arkab Posterior
+Eaglescliffe Hall,27-04-1554,Sweden,Passenger (Cruise) Ship,Paikauhale
+SS Linda,21-08-1778,Estonia,Container Ship,Cervantes
+USS Moody,11-02-1595,Japan,LNG Tanker,Intercrus
+Hatsuharu,18-10-1678,Egypt,Container Ship,Mothallah
+M.E. Norman,29-06-1714,Korea,Crude Oil Tanker,Cursa
+Kisaragi,23-01-1726,Togolese Rep,Crude Oil Tanker,Sham
+U-854,12-04-1573,Japan,Container Ship,Alya
+U-667,25-04-1506,Japan,Bulk Carrier,Sheratan
+Sultana,14-11-1734,Norway,LNG Tanker,Alfirk
+Columbia,01-02-1515,Thailand,Bulk Carrier,Cebalrai
+HMS Mahratta,16-01-1944,Argentina,Container Ship,Praecipua
+S-7,18-05-1798,United Kingdom (UK),Container Ship,Elkurud
+USS Jacob Jones,23-01-1940,Spain,Container Ship,Polis
+RMS Queen Elizabeth,19-08-1628,Argentina,Container Ship,Rastaban
+Wheel Wreck,30-01-1611,Netherlands,Bulk Carrier,Electra
+Urakami Maru,20-01-1527,Brazil,Bulk Carrier,Atik
+T-8,14-02-1982,United States (USA),Container Ship,Zubenelhakrabi
+Queen Bee,07-06-1793,United Kingdom (UK),LNG Tanker,Arneb
+Eaglescliffe Hall,31-01-1704,Estonia,Container Ship,Okab
+U-173,05-11-1716,Italy,LNG Tanker,Bharani
+Peter Iredale,16-06-1722,China,Bulk Carrier,Nunki
+SMS S31,12-05-1575,Papua New Guinea,Container Ship,Procyon
+Laura A. Barnes,01-06-1538,China,Bulk Carrier,Muscida
+SV Edmond,02-02-1925,Finland,Container Ship,Nihal
+SS Hesper,04-10-1652,Japan,LNG Tanker,Mothallah
+SS Milwaukee,20-06-1842,Brazil,Offshore Support Vessel,Aladfar
+Abyssinia,24-04-1924,Greece,Crude Oil Tanker,Aldulfin
+HMS Niger,31-10-1961,Canada,LNG Tanker,Ogma
+ORP Kujawiak,30-12-1909,Sweden,Container Ship,Libertas
+West Honaker,17-03-1778,United States (USA),Container Ship,Grumium
+King Cruiser,10-08-1790,Norway,Bulk Carrier,Lesath
+La Galga,28-09-1939,Portugal,Container Ship,Mesarthim
+Auguste,21-08-1562,Spain,Bulk Carrier,Tarazed
+Mountaineer,17-11-1849,Germany,LNG Tanker,Sadalbari
+HMS Kent,04-04-1617,Chile,Container Ship,Polis
+Kahuku,14-12-1570,Panama,Bulk Carrier,Alshain
+Âsâr-ı Tevfik,25-11-1953,United States (USA),LNG Tanker,Polaris Australis
+Toreshima Maru,24-04-1960,Italy,Bulk Carrier,Phact
+HMCS Shawinigan,15-02-1544,India,Container Ship,Tiaki
+SMS Mainz,20-06-2006,Germany,Bulk Carrier,Achird
+Helgoland,31-07-1663,Iran,Bulk Carrier,Spica
+Wave,22-05-1667,Greece,Crude Oil Tanker,Mimosa
+Cospatrick,28-02-1682,United States (USA),Passenger (Cruise) Ship,Tiaki
+General E. L. F. Hardcastle,01-12-1856,United Kingdom (UK),Bulk Carrier,Segin
+No 5 dumb hopper barge,04-07-1554,United States (USA),Container Ship,Cebalrai
+Adelphoi,20-08-1991,Canada,FSO,Rastaban
+Marsland,12-03-1864,Norway,Bulk Carrier,Phact
+U-345,26-07-1515,Japan,FSO,Alkarab
+The Pepper Wreck,12-01-1947,United States (USA),LNG Tanker,Unukalhai
+USS Saxis,17-04-1635,United States (USA),Crude Oil Tanker,Nembus
+Ericsson,14-11-1783,Sweden,Container Ship,Rasalhague
+HMS Eagle,11-01-2009,United States (USA),Crude Oil Tanker,Muscida
+Milan,11-11-1751,Norway,Bulk Carrier,Menkalinan
+SS Donegal,19-11-2003,United Kingdom (UK),Bulk Carrier,Alsciaukat
+Julia H. Ray,08-01-1701,Iceland,Crude Oil Tanker,Hatysa
+SMS G42,12-01-1756,Japan,Crude Oil Tanker,Deneb
+EM[a] Wilcox,21-10-1835,Germany,Crude Oil Tanker,Alnitak
+St. George,01-11-1588,Kuwait,LNG Tanker,Zubenelhakrabi
+HMS Athenienne,06-05-1936,Netherlands,Container Ship,Zavijava
+USS Stickleback,07-05-1831,Japan,Container Ship,Alnitak
+Bow Cabin,06-04-1911,United Kingdom (UK),Container Ship,Errai
+Wiawaka bateaux,24-01-1516,Italy,Bulk Carrier,Taygeta
+Sunny South,23-11-1940,Canada,Bulk Carrier,Elnath
+U-1105,05-09-1738,Netherlands,Bulk Carrier,Castula
+RMS Lusitania,05-05-1593,Japan,Container Ship,Arcturus
+Laguna,26-03-1662,Argentina,Crude Oil Tanker,Menkar
+Josephine Woolcot,17-08-1726,United States (USA),Container Ship,Tania Australis
+HMS D5,06-09-1727,Japan,Container Ship,Gudja
+Toreshima Maru,09-09-1996,Norway,Bulk Carrier,Avior
+Jennie M. Carter,16-03-1864,Italy,Container Ship,Rasalhague
+"A steamship that was wrecked on the rocks.  The 160 passengers and most of the freight were landed on the Oregon shore.[23]  Towed in to drydock at Cascade Locks around September 1.  The hull was found to be a ""complete wreck.""[24]",02-03-1595,Poland,Container Ship,Castula
+RP-14 Limon,16-02-1822,United States (USA),Container Ship,Shaula
+Dumaguete J,26-10-1606,United States (USA),Crude Oil Tanker,Alcor
+USS Ulvert M. Moore,23-06-1710,Norway,LNG Tanker,Adhil
+HMHS Britannic,30-03-1694,Spain,LNG Tanker,Minelauva
+Santa Maria de la Consolacion,29-04-1845,Solomon Islands,Crude Oil Tanker,Alkarab
+UB-88,29-04-1688,United States (USA),Crude Oil Tanker,Peacock
+Tor Hugo,07-03-1948,Chile,Bulk Carrier,Cor Caroli
+Eagle,24-05-1559,Spain,Bulk Carrier,Phact
+Camden,19-10-1865,Malaysia,Bulk Carrier,Beemim
+CSS Governor Moore,08-10-1604,United Kingdom (UK),Passenger (Cruise) Ship,Tegmine
+Ricky's Tug,14-04-1743,Turkey,Bulk Carrier,Sadalsuud
+HMS A3,04-04-1617,Sweden,LNG Tanker,Skat
+Lindus,17-05-1786,Japan,Passenger (Cruise) Ship,Alnair
+HMS Ariadne,22-05-1581,Faeroe Islands,Bulk Carrier,Torcular
+Héros (1750),28-03-1796,United Kingdom (UK),Container Ship,Terebellum
+SS American Star,26-10-1606,Canada,LNG Tanker,Algorab
+SS Oriental,08-12-1969,Turkmenistan,Bulk Carrier,Alrakis
+Johanna Wagner,07-05-1679,United Kingdom (UK),Bulk Carrier,Pollux
+Amaretto,13-12-1818,Norway,Bulk Carrier,Ainalrami
+Kirishima,19-10-1666,Turkey,Container Ship,Alnilam
+HNLMS Kortenaer,01-10-1989,Croatia,Crude Oil Tanker,Veritate
+Bawnmore,09-01-1888,Panama,Container Ship,Tarf
+Carroll A. Deering,26-09-1792,Latvia,LNG Tanker,Deneb
+Hayate,08-03-1688,Japan,Bulk Carrier,Kurhah
+Roma,17-10-1571,Greece,Crude Oil Tanker,Aludra
+Grosvenor,11-03-1747,United States (USA),Passenger (Cruise) Ship,Muphrid
+RMS Alcantara,13-02-1657,India,LNG Tanker,Alkes
+Sheherezade,10-12-1670,Iran,Container Ship,Capella
+SMS Breslau,15-06-1987,Faeroe Islands,Container Ship,Seginus
+USS Merrimac,14-02-1880,United States (USA),Container Ship,Taiyangshou
+Logos,23-07-1983,Malaysia,Container Ship,Zaurak
+Henry Roney,06-10-1799,Dominican Rep,Container Ship,Kochab
+SS Carnatic,05-05-1640,Japan,Bulk Carrier,Tureis
+ORP Kujawiak,24-09-1869,Japan,Crude Oil Tanker,Kaus Australis
+Alexandra,01-04-1908,Denmark,Container Ship,Alterf
+USS Dixon,04-11-1535,Spain,Bulk Carrier,Alhena
+SS Francisco Morazan,04-08-1966,India,Container Ship,Dubhe
+USS Laffey,10-08-1711,Japan,Bulk Carrier,Zhang
+HMT Juniper,18-04-1644,Canada,Container Ship,Altair
+Monkey Wrench,17-06-2004,United Kingdom (UK),Container Ship,Athebyne
+MV Fedra,01-05-1639,Greece,Crude Oil Tanker,Azmidi
+U-181,05-05-1921,United States (USA),Bulk Carrier,Pherkad
+France,26-02-1721,United States (USA),Passenger (Cruise) Ship,Sheliak
+HMS D3,21-09-1647,India,LNG Tanker,Nunki
+RFA Lady Cory-Wright,28-09-1738,Russia,Passenger (Cruise) Ship,Ruchbah
+Prudent,22-12-1861,United States (USA),Crude Oil Tanker,Aldhanab
+Malta,14-03-1527,Australia,Crude Oil Tanker,Adhara
+Pennsylvanian,25-11-1649,Panama,Container Ship,Acrux
+Asgard II,27-08-1901,Denmark,Crude Oil Tanker,Peacock
+Trinidad Valencera,07-09-1801,Japan,Bulk Carrier,Sceptrum
+M.E. Norman,20-09-2006,Italy,Crude Oil Tanker,Adhil
+Jorge B.,16-05-2006,Italy,Bulk Carrier,Yildun
+Warren Adams,23-10-1785,New Zealand,LNG Tanker,Aladfar
+Conde de Tolosa,25-01-1543,China,Bulk Carrier,Zaniah
+Kazu I,17-12-1691,Sweden,LNG Tanker,Menkent
+MV Empire Beacon,23-04-1541,Sweden,Container Ship,Xamidimura
+HMS Pegasus,15-09-1650,Greece,Container Ship,Atlas
+Fujikawa Maru,05-03-1723,United States (USA),Bulk Carrier,Cervantes
+SS Faja de Oro,01-05-1928,Germany,Bulk Carrier,Aldhibah
+USS R-12,16-07-1734,United States (USA),LNG Tanker,Atik
+U-1063,15-08-1572,Japan,LNG Tanker,Alnilam
+HMS Dunoon,16-06-1672,Japan,Crude Oil Tanker,Mirfak
+Kazagumo,06-06-1920,New Zealand,Container Ship,Maasym
+Châteaurenault,26-07-1754,Chile,Crude Oil Tanker,Felis
+SS General Warren,24-09-1783,Russia,Container Ship,Aldulfin
+USS Brownson,12-04-1564,Korea,Bulk Carrier,Giausar
+Persephone,31-01-1704,Indonesia,Bulk Carrier,Zhang
+I-60,16-05-1655,Iceland,LNG Tanker,Atik
+Marco Polo,26-08-1933,Netherlands,Bulk Carrier,Sham
+Green Bay,15-12-1507,Iran,Crude Oil Tanker,Kornephoros
+Ericsson,29-06-1613,Canada,Bulk Carrier,Polis
+La Seyne,04-07-1644,Sweden,Crude Oil Tanker,Helvetios
+Carrier Dove,21-03-1920,Isle of Man,Bulk Carrier,Azmidi
+William and John,26-07-1754,Norway,Container Ship,Achird
+HMS Harrier,19-04-1887,Japan,Container Ship,Hatysa
+HMS Karanja,16-04-1924,Argentina,LNG Tanker,Helvetios
+Liberator,12-05-1731,Slovenia,Crude Oil Tanker,Sulafat
+HMAS Warrnambool,11-09-1609,Canada,Crude Oil Tanker,Talitha
+SS Las Choapas,07-04-1575,Portugal,Bulk Carrier,Wezen
+HMAS Canberra,05-07-1608,New Caledonia,Crude Oil Tanker,Kaffaljidhma
+Tassie III,03-11-1939,Greece,Crude Oil Tanker,Theemin
+HMAS Geelong,30-07-1575,Finland,Bulk Carrier,Yildun
+City of Sheboygan,26-05-1557,Canada,Crude Oil Tanker,Taiyangshou
+Numancia,04-11-1510,Turkmenistan,LNG Tanker,Alniyat
+Strathallen,19-08-1845,United States (USA),Bulk Carrier,Achird
+Adolf Vinnen,25-06-1540,Japan,Bulk Carrier,Rastaban
+Loch Vennachar,26-03-1816,United Kingdom (UK),Container Ship,Kornephoros
+SS Breda,04-05-1643,Canada,Bulk Carrier,Zubenelhakrabi
+Akigumo,21-12-1725,Japan,Bulk Carrier,Atlas
+Daniel Lyons,07-01-1881,United States (USA),Bulk Carrier,Veritate
+Nisbet Grammer,28-03-1802,Spain,LNG Tanker,Yed Posterior
+Böhlen,13-10-1815,Equatorial Guinea,Container Ship,Menkent
+USS Scuffle,13-10-1822,Fiji,LNG Tanker,Kaus Borealis
+RMS Lancastria,11-09-1540,Mexico,Container Ship,Fang
+UB-115,20-04-1995,United States (USA),LNG Tanker,Alcor
+MV Salem Express,23-06-1710,Sweden,Bulk Carrier,Alsciaukat
+"""Manilla wreck""",24-01-1880,China,Container Ship,Haedus
+USS Sumpter,28-09-1529,Thailand,LNG Tanker,Alsafi
+HMS Investigator,11-08-1732,Aruba,Container Ship,Scheat
+Kelat,10-05-1925,Japan,Passenger (Cruise) Ship,Regulus
+SS Carl Gerhard,09-05-1646,United States (USA),Crude Oil Tanker,Sheliak
+USS Ohio,31-08-1522,Equatorial Guinea,Bulk Carrier,Merope
+Astron,10-01-1743,Denmark,Crude Oil Tanker,Rasalhague
+Rose Bud,27-05-2010,Sweden,Container Ship,Cujam
+SS Avalon,27-06-1638,Portugal,Bulk Carrier,Castula
+Paddy Murphy,27-09-1908,United States (USA),Container Ship,Miram
+U-601,20-01-1802,Mexico,Bulk Carrier,Praecipua
+Ajax,16-12-1656,Indonesia,LNG Tanker,Nekkar
+Aura II,26-10-1606,China,LNG Tanker,Muscida
+USS San Jacinto,02-03-1624,Togolese Rep,Bulk Carrier,Asellus Australis
+Sancti Espiritus,26-07-1515,Egypt,Crude Oil Tanker,Eltanin
+SS Flying Enterprise,22-08-1899,Netherlands,Bulk Carrier,Zaniah
+USS Mingo,24-06-1870,Canada,Bulk Carrier,Naos
+USS Ohio,19-09-1578,Estonia,Bulk Carrier,Gacrux
+Dundee,28-07-1671,Spain,Bulk Carrier,Merope
+HDMS Lossen,18-08-1939,Bahamas,Container Ship,Ankaa
+Abukir,12-08-1736,China,Container Ship,Deneb
+Earlshall,23-03-1978,United States (USA),Container Ship,Alpherg
+USS Dorado,15-10-1906,Faeroe Islands,LNG Tanker,Acubens
+USS Lily,03-12-1808,United Kingdom (UK),Crude Oil Tanker,Tabit
+SS Alcoa Puritan,16-01-1939,Japan,Bulk Carrier,Diadem
+Mose,10-09-1679,Sweden,Crude Oil Tanker,Diphda
+HMS Blackwood,20-08-1696,United Kingdom (UK),Bulk Carrier,Markab
+HMS Pakenham,19-11-1980,Panama,Container Ship,Tonatiuh
+Meisho Maru No. 38,05-12-1636,Sweden,Passenger (Cruise) Ship,Elgafar
+HMS Dunoon,12-10-1935,Japan,Container Ship,Alula Borealis
+Tryall,12-12-1957,Japan,Crude Oil Tanker,Meleph
+SS Papoose,02-10-1941,Panama,Passenger (Cruise) Ship,Mebsuta
+Edward Rich,04-07-1816,Bulgaria,Crude Oil Tanker,Nahn
+Johanna Smith,14-02-1880,Greece,Bulk Carrier,Cujam
+Washington,06-12-1988,Japan,Bulk Carrier,Peacock
+U-327,15-06-1890,India,LNG Tanker,Aldhibah
+Delmar,25-04-1599,United Kingdom (UK),Bulk Carrier,Ukdah
+Hannah Elizabeth,19-06-1879,Cuba,Passenger (Cruise) Ship,Zhang
+HMS Umpire,26-02-1787,Canada,LNG Tanker,Sargas
+Annie G. Doyle,01-04-1739,Canada,Crude Oil Tanker,Alnasl
+HMS Sandfly,07-03-1948,China,Crude Oil Tanker,Denebola
+Nuestra Señora de Encarnación,09-05-1760,United States (USA),Bulk Carrier,Lich
+SS Noronic,21-04-1597,Poland,Crude Oil Tanker,Atlas
+Cities Services Empire,07-08-1655,Sweden,Crude Oil Tanker,Xuange
+I-18tou,11-03-1877,United States (USA),Bulk Carrier,Intercrus
+SS Thames,15-05-1709,Argentina,Crude Oil Tanker,Polis
+Darlington,08-02-1773,Malaysia,Bulk Carrier,Kaus Australis
+HMS Tenedos,22-10-1844,Argentina,Crude Oil Tanker,Mahasim
+U-322,16-08-1554,United States (USA),Bulk Carrier,Azelfafage
+Rusland,27-01-1964,Japan,Bulk Carrier,Albaldah
+SS Pruth,20-04-1778,Brazil,Crude Oil Tanker,Rukbat
+HMS Codrington,05-06-1545,Germany,Container Ship,Markeb
+Arnhem,30-09-1706,Papua New Guinea,Crude Oil Tanker,Unurgunite
+Rusalka,18-07-1882,Germany,Bulk Carrier,Alsafi
+King Philip,21-08-1964,Canada,Container Ship,Fang
+Windsor,08-08-1869,Papua New Guinea,Crude Oil Tanker,Yildun
+SMS Dresden,06-04-1837,New Zealand,Crude Oil Tanker,Taiyangshou
+Cornwallis,20-05-1578,Croatia,Container Ship,Tarazed
+SS Oriental,30-10-1796,Canada,Bulk Carrier,Alnilam
+Kwinana,18-11-1715,Norway,LNG Tanker,Yed Posterior
+CSS Gaines,27-09-1807,India,Passenger (Cruise) Ship,Asellus Borealis
+G.C. Lindauer,27-08-1884,Iceland,Container Ship,Tiaki
+HMS Stirling Castle,10-08-1997,Spain,Container Ship,Sadalbari
+El Gran Grifón,29-09-1849,Greece,Bulk Carrier,Cebalrai
+Arnhem,02-09-1964,Italy,Container Ship,Kornephoros
+SS James Eagan Layne,21-01-1983,Sao Tome & Principe,Bulk Carrier,Almaaz
+USS Craven,26-10-1786,Japan,Bulk Carrier,Arkab Posterior
+Il’mena,21-01-1891,Croatia,Passenger (Cruise) Ship,Theemin
+Siberia,02-08-2002,Sweden,Bulk Carrier,Tianguan
+I-60,24-09-1753,Sweden,Container Ship,Biham
+Mary E. Moore,13-08-1620,Greece,LNG Tanker,Alula Borealis
+USS Emmons,10-08-1941,Iceland,Bulk Carrier,Marsic
+Ocean Queen,23-05-1902,Italy,Container Ship,Zosma
+SS Tjisalak,19-02-1645,Estonia,Container Ship,Zhang
+USS John Penn,14-11-1672,United States (USA),Container Ship,Ankaa
+U-235,24-07-1954,Malaysia,Container Ship,Proxima Centauri
+Nisshin,04-11-1831,Panama,Bulk Carrier,Tania Borealis
+SS Allan Jackson,30-07-1575,Brazil,LNG Tanker,Tarf
+SS Proteus,14-10-1798,Croatia,Bulk Carrier,Enif
+USS Little,30-12-1512,Turkey,Bulk Carrier,Mebsuta
+UC-18,11-11-1537,Argentina,Container Ship,Secunda Hyadum
+MV River Gurara,19-05-1688,Sweden,Container Ship,Spica
+Katina P,10-09-1669,United Kingdom (UK),Bulk Carrier,Acubens
+Derrycunihy,05-10-1956,Japan,Container Ship,Azelfafage
+HMS Conway,27-02-1885,Italy,Container Ship,Unukalhai
+HMS Ariadne,16-01-1690,United States (USA),Bulk Carrier,Diphda
+SS Charkow,03-07-1578,Canada,Crude Oil Tanker,Porrima
+Fawn,18-05-1783,Sweden,Bulk Carrier,Copernicus
+Cais do Sodré shipwreck,05-11-1831,Kuwait,Crude Oil Tanker,Beemim
+U-737,18-08-1527,Croatia,Bulk Carrier,Alnasl
+HMS Dunoon,30-12-1583,Norway,Crude Oil Tanker,Aldulfin
+Wave,23-09-1989,Norway,Container Ship,Alnitak
+ES Goðafoss,08-01-1805,United States (USA),Crude Oil Tanker,Castor
+Empire Mica,22-03-1854,Australia,Bulk Carrier,Imai
+Atago Maru,29-01-1509,United States (USA),Container Ship,Menkent
+Sarah E. Sheldon,29-07-1820,Canada,Container Ship,Lich
+Capricieux,20-10-1911,Argentina,LNG Tanker,Gomeisa
+S-89,12-05-1502,Netherlands,Container Ship,Ascella
+HMS Cornwall,15-08-1754,Turkey,Crude Oil Tanker,Aspidiske
+SS Kyarra,31-07-1683,India,Bulk Carrier,Errai
+Wittering,19-08-1576,United States (USA),Crude Oil Tanker,Alrescha
+Phyllis,21-04-1848,New Caledonia,Container Ship,Iklil
+HMS Bickerton,20-10-1990,Puerto Rico,Container Ship,Azelfafage
+Rusland,05-05-1608,Norway,Offshore Support Vessel,Cervantes
+Joanna,06-04-1884,Faeroe Islands,Bulk Carrier,Hatysa
+Cohansa,20-11-1859,United States (USA),Container Ship,Rasalhague
+HMCS Athabaskan,01-12-1528,Papua New Guinea,LNG Tanker,Sadr
+USAS American Mariner,09-03-1789,Canada,Container Ship,Peacock
+CSS Phoenix,27-08-1962,Russia,Bulk Carrier,Barnard’s Star
+"""Frenchman wreck""",18-09-1925,Croatia,Container Ship,Nunki
+SS Walter L. Frost,29-07-1848,Croatia,Bulk Carrier,Keid
+HMS Derwent,09-07-1918,Estonia,LNG Tanker,Kaffaljidhma
+HMS Katherine,25-12-2000,Norway,Crude Oil Tanker,Saclateni
+Armenia,12-06-1756,United States (USA),Bulk Carrier,Aldhibah
+Nossa Senhora da Luz,06-08-1871,Belgium,Container Ship,Naos
+USS South America,28-08-1831,Sweden,LNG Tanker,Chalawan
+MV Christena,20-07-1662,United States (USA),Passenger (Cruise) Ship,Alfirk
+SS Transylvania,25-06-1540,Sweden,LNG Tanker,Alsephina
+Séduisant,20-07-1692,New Caledonia,Crude Oil Tanker,Mizar
+Asagumo,17-12-1836,Bahamas,Container Ship,Brachium
+USCGC Blackthorn (WLB-391),13-06-1539,Vietnam,Bulk Carrier,Tania Australis
+U-854,31-07-1891,United Arab Emirates (UAE),Bulk Carrier,Zibal
+Amakura,17-05-1730,United Kingdom (UK),Bulk Carrier,Mekbuda
+San Blas,15-01-1533,Japan,Passenger (Cruise) Ship,Sadalmelik
+HMAS Wyatt Earp,15-03-1538,Croatia,Crude Oil Tanker,La Superba
+South Portland,06-08-2009,Norway,Container Ship,Rigel
+SS Grandcamp,24-07-1721,Estonia,LNG Tanker,Dalim
+Nuestra Señora de Encarnación,18-04-1599,United States (USA),Container Ship,Zosma
+Sydney Cove,19-03-2004,Argentina,Bulk Carrier,Homam
+CSS North Carolina,24-10-1966,Portugal,Crude Oil Tanker,Pleione
+Takanami,07-11-1888,Mexico,Bulk Carrier,Alniyat
+Nisshin,22-08-1899,Korea,LNG Tanker,Sceptrum
+Oneida,16-03-1695,Spain,Container Ship,Zaniah
+Mount Royal,25-01-1705,Japan,Crude Oil Tanker,Merope
+F174,23-09-1849,Japan,LNG Tanker,Mimosa
+UC-62,26-01-1570,Italy,Crude Oil Tanker,Fafnir
+Hallowe'en,22-09-1731,India,LNG Tanker,Pherkad
+Atlanta,14-02-1982,Japan,Bulk Carrier,Athebyne
+Zenobia,17-03-1778,Japan,Bulk Carrier,Pollux
+San Juan de Pasajes,08-01-1805,Canada,LNG Tanker,Mesarthim
+Spanish ship Neptuno,14-02-1786,Tunisia,Container Ship,Guniibuu
+USS Cushing,23-05-1902,Turkey,Bulk Carrier,Sabik
+Fort Mercer,20-08-1926,Panama,Bulk Carrier,Mahasim
+SS Pimpao de Odemira,02-02-1925,Norway,Bulk Carrier,Chara
+HMS Hollyhock,17-12-1693,Iceland,FSO,Zavijava
+Edward E. Briry,17-07-1513,Japan,Bulk Carrier,Polis
+Urilda,25-07-1978,United States (USA),Crude Oil Tanker,Wasat
+Phryné,01-09-1982,South Africa,Container Ship,Yed Posterior
+Asagumo,02-03-2004,Canada,Bulk Carrier,Alnilam
+UB-65,01-05-1914,Australia,Container Ship,Mebsuta
+MV Cita,20-03-1827,Faeroe Islands,Passenger (Cruise) Ship,Sheliak
+HMS Royal George,24-02-1550,United States (USA),Container Ship,Hamal
+U-327,21-12-1515,United States (USA),Container Ship,Antares
+SS Maine,09-10-1700,Isle of Man,Crude Oil Tanker,Mimosa
+Netherby,18-07-1892,Italy,Bulk Carrier,Hassaleh
+Olivia Schultze,18-12-1788,Norway,LNG Tanker,Taiyangshou
+Kazu I,14-06-1922,Korea,Crude Oil Tanker,Sarin
+SS Homer,13-01-1857,Chile,Crude Oil Tanker,Ogma
+Eldorado,30-11-1800,Malaysia,LNG Tanker,Paikauhale
+HMAS Torrens,21-01-1710,Canada,LNG Tanker,Veritate
+Saint-Philibert,30-05-1901,Japan,Bulk Carrier,Praecipua
+SS Thomas Wilson,24-02-1837,Japan,Crude Oil Tanker,Sulafat
+MV Fu Shan Hai,02-04-1720,Japan,LNG Tanker,Zaniah
+SS Inkosi,21-10-1876,Croatia,Container Ship,Taiyi
+USS Iron Age,29-06-1943,Norway,Bulk Carrier,Ashlesha
+Dawn,29-06-1714,China,Container Ship,Alkaphrah
+MS Palatia,24-11-1677,Croatia,Bulk Carrier,Ginan
+USS Weehawken,20-04-1656,United States (USA),Container Ship,Phact
+Mikazuki,24-03-1820,Iceland,Container Ship,Alniyat
+HMS Lady Olive,02-01-1651,Russia,Container Ship,Sadalmelik
+U-701,31-07-1683,United States (USA),LNG Tanker,Misam
+J. Marhoffer,27-03-1568,Sweden,Container Ship,Athebyne
+Jay Gould,08-02-1578,Sweden,Container Ship,Meridiana
+Charles Devans,25-12-1522,Estonia,Passenger (Cruise) Ship,Yed Posterior
+Brighton,21-07-1669,United Kingdom (UK),Container Ship,Wasat
+U-680,17-05-1730,United Kingdom (UK),Crude Oil Tanker,Arkab Posterior
+SS Kassandra Louloudis,26-02-1878,United Kingdom (UK),LNG Tanker,Alnilam
+U-350,15-11-1782,Japan,Container Ship,Tarazed
+Eureka,25-07-1536,Turkey,Bulk Carrier,Menkent
+USCS Belle,18-07-1858,Brazil,Bulk Carrier,Sualocin
+Buster,01-04-1952,Greece,Crude Oil Tanker,Taiyi
+USS Katherine K.,26-05-1750,Japan,LNG Tanker,Barnard’s Star
+Imperator Aleksandr III,14-02-1723,Russia,LNG Tanker,Miaplacidus
+Kiperousa,26-05-1562,Chile,LNG Tanker,Arkab Prior
+Black Duck,19-03-1903,Japan,Container Ship,Alchiba
+SS Thistlegorm,10-12-1613,Norway,Bulk Carrier,Sadr
+The Porter,05-06-1818,Australia,Crude Oil Tanker,Almaaz
+HMS Sandfly,20-11-1705,United States (USA),FSO,Homam
+SS Buarque,21-10-1668,Papua New Guinea,Bulk Carrier,Homam
+Ocean Monarch,11-09-1801,Norway,Container Ship,Meridiana
+MV Bolivar,18-01-1823,Angola,Crude Oil Tanker,Maasym
+Little Wissahickon,23-08-1879,Norway,Bulk Carrier,Alpheratz
+Cais do Sodré shipwreck,17-06-2004,United Kingdom (UK),Passenger (Cruise) Ship,Alula Borealis
+SMS Mainz,31-10-1769,Panama,Bulk Carrier,Alcyone
+HMCS Chaudière,11-12-1517,Canada,Bulk Carrier,Zaurak
+U-314,23-08-1643,United Kingdom (UK),Container Ship,Shaula
+SS Revoljucija,09-02-1892,Norway,Container Ship,Atik
+California,04-10-1928,US Minor Outlying Isls,Crude Oil Tanker,Chara
+Clonmel,02-09-1849,Turkmenistan,Crude Oil Tanker,Tureis
+BO-230,13-10-1844,Iceland,Crude Oil Tanker,Mimosa
+Hatsutaka,04-02-1761,Germany,Crude Oil Tanker,Sabik
+USS Potomac,03-08-1739,Egypt,Bulk Carrier,Mahasim
+Treasure,12-09-1794,Japan,Container Ship,Aldhibah
+HMS Amfitrite,30-10-1796,St Vincent & Grenadines,Crude Oil Tanker,Pherkad
+CSS Raleigh,31-05-1564,China,Bulk Carrier,Alcyone
+HMS Hood,04-11-1512,Japan,Bulk Carrier,Unukalhai
+USS St. Sebastian,01-04-1654,Cyprus,Crude Oil Tanker,Hamal
+MV Camadan,17-04-1641,Norway,Crude Oil Tanker,Aladfar
+SS Wairarapa,07-07-1840,Panama,Container Ship,Fawaris
+Azariah,24-06-1679,Argentina,Passenger (Cruise) Ship,Furud
+Gasfire,10-12-1859,Japan,Container Ship,Asellus Borealis
+S-??,17-06-1624,France,Bulk Carrier,Biham
+SS Lafayette,31-03-1883,Aruba,Crude Oil Tanker,Porrima
+British Splendour,19-01-1749,Spain,LNG Tanker,Acrux
+Carlingford,23-07-1987,Equatorial Guinea,LNG Tanker,Libertas
+Washington Irving,14-04-1571,United States (USA),Bulk Carrier,Azelfafage
+U-961,18-09-1831,Argentina,LNG Tanker,La Superba
+Antelope,27-11-2006,United Kingdom (UK),Bulk Carrier,Eltanin
+HMS Trinidad,08-05-1676,Japan,LNG Tanker,Guniibuu
+USAT Dorchester,11-05-1527,Faeroe Islands,Container Ship,Nusakan
+Minnehaha,23-10-1785,United States (USA),Bulk Carrier,Athebyne
+Bouvet,09-05-1575,Japan,Crude Oil Tanker,Albali
+Beatrice,09-02-1686,Estonia,Container Ship,Cujam
+Falls of Halladale,08-08-1973,Belgium,Container Ship,La Superba
+HNoMS Svenner,01-05-1712,Faeroe Islands,LNG Tanker,Diadem
+SS Australien,30-08-1945,United States (USA),Bulk Carrier,Mothallah
+HMS Abdiel,10-03-1748,United States (USA),LNG Tanker,Aldhanab
+USS Swallow,24-04-1960,Togolese Rep,Bulk Carrier,Angetenar
+Volante,08-04-1810,Croatia,Offshore Support Vessel,Aladfar
+Lillie Parsons,28-04-1849,Faeroe Islands,Container Ship,Diadem
+Raleigh,05-05-1987,Japan,Bulk Carrier,Kang
+HMS Whiting,02-07-1870,Japan,Crude Oil Tanker,Unurgunite
+USS Scuffle,25-03-1725,Norway,Container Ship,Zaurak
+Unknown horse ferry,11-03-1840,Faeroe Islands,Bulk Carrier,Castor
+SS Empire Chaucer,12-01-1926,Finland,Container Ship,Revati
+HMAS Doomba,07-12-1826,Papua New Guinea,Bulk Carrier,Alderamin
+Fort Mercer,02-02-1661,United Arab Emirates (UAE),Container Ship,Alsafi
+Delmar,24-11-1580,Iran,Container Ship,Yildun
+Baden,12-12-1615,United Kingdom (UK),Bulk Carrier,Zaurak
+Ace I,12-12-1901,US Minor Outlying Isls,Bulk Carrier,Arneb
+CSS H. L. Hunley,30-06-1675,Spain,Crude Oil Tanker,Fang
+28 October 1892,25-02-1720,Faeroe Islands,Crude Oil Tanker,Copernicus
+Golden West,27-08-1946,Slovenia,Bulk Carrier,Rastaban
+HMS L24,26-01-1995,Indonesia,Crude Oil Tanker,Sadr
+USS Oriskany (CV-34),28-11-1708,Iceland,Container Ship,Algedi
+Gloridia V,01-11-1703,Greece,Container Ship,Okab
+HMS Matabele,20-11-1859,Canada,LNG Tanker,Algedi
+William Elgin,04-05-1783,Norway,Container Ship,Heze
+Baden,22-05-1927,Japan,Passenger (Cruise) Ship,Alruba
+SS Orizaba,19-08-1525,Turkey,Container Ship,Nihal
+MS Logna,17-08-1633,Indonesia,Container Ship,Arcturus
+USS Bates,07-05-1534,Japan,Bulk Carrier,Mesarthim
+Doddington,09-01-1707,New Zealand,LNG Tanker,Giausar
+SS E.M. Clark,17-01-1678,Latvia,Crude Oil Tanker,Alcor
+Vidette,22-05-1667,Argentina,LNG Tanker,Tejat
+Kuroshio Maru,05-07-1949,Malaysia,Bulk Carrier,Ascella
+John Hunter,06-08-1618,Japan,Container Ship,Gomeisa
+Mussel,28-03-1802,Malaysia,Bulk Carrier,Alnitak
+USS Preble,28-04-1902,United States (USA),LNG Tanker,Elgafar
+Nisshin,05-10-1956,United States (USA),Bulk Carrier,Homam
+Hebe,04-05-1641,United States (USA),Crude Oil Tanker,Porrima
+Dundonald,09-12-1790,Panama,Container Ship,Piautos
+Venus,02-10-1556,Croatia,Container Ship,Hatysa
+HMS Argyll,09-12-1922,Japan,Bulk Carrier,Alkaphrah
+USS General M. C. Meigs,27-07-1840,China,Container Ship,Biham
+SS Cymric,08-05-1895,Sweden,LNG Tanker,Salm
+RFA Bedenham,07-05-1537,New Caledonia,Container Ship,Cujam
+Jessica,01-02-1524,United Kingdom (UK),Crude Oil Tanker,Situla
+HMS Alert,27-06-1525,Cuba,Container Ship,Deneb Algedi
+USS Helena I,20-12-1753,Japan,LNG Tanker,Alkalurops
+USS Pilotfish,29-12-1750,Dominican Rep,Crude Oil Tanker,Alniyat
+Sitakund,09-09-1633,Chile,Bulk Carrier,Guniibuu
+Fort Bragg,02-01-1961,Belgium,Container Ship,Tonatiuh
+Ganges,22-05-1776,Sweden,LNG Tanker,Talitha
+SS Arratoon Apcar,26-09-1683,Spain,Crude Oil Tanker,Larawag
+MV Australia,13-03-1941,Canada,LNG Tanker,Alsafi
+Contest,03-12-1997,New Zealand,Bulk Carrier,Minelauva
+Bonnie Dundee,20-05-1828,Germany,Crude Oil Tanker,Prima Hyadum
+SS Fulmar,27-10-1878,Japan,Crude Oil Tanker,Alniyat
+MV Explorer,16-07-1883,United States (USA),LNG Tanker,Kraz
+HMS Abdiel,05-10-1752,United States (USA),Crude Oil Tanker,Atlas
+HMS Hardy,03-07-1784,Canada,Bulk Carrier,Elnath
+HMS Ivanhoe,15-12-2002,Spain,Bulk Carrier,Nashira
+Alice Kimball,15-04-1613,Puerto Rico,Bulk Carrier,Tiaki
+USRC Mohawk,12-09-1882,Canada,LNG Tanker,Zavijava
+115,25-09-1624,Estonia,LNG Tanker,Fomalhaut
+San Flaviano,28-02-1938,Brazil,Bulk Carrier,Homam
+E. L. Smith,12-10-1543,Australia,Container Ship,Fafnir
+SS City of Chester,22-10-1900,Canada,Bulk Carrier,Saclateni
+Hilda,11-12-1750,United Kingdom (UK),Crude Oil Tanker,Prima Hyadum
+Akebono,08-01-1885,Vietnam,Bulk Carrier,Situla
+Le Tigre,08-01-1805,Puerto Rico,Bulk Carrier,Helvetios
+Lake Serpent,28-05-1880,Japan,Crude Oil Tanker,Ankaa
+SS Walter L M Russ,07-02-1515,Nauru,Crude Oil Tanker,Ain
+Hayanami,09-07-1784,United Kingdom (UK),LNG Tanker,Imai
+U-601,14-03-1954,Italy,Crude Oil Tanker,Alnilam
+Z8 Bruno Heinemann,02-12-1618,United Kingdom (UK),Crude Oil Tanker,Betelgeuse
+Koonya,28-03-1884,Russia,Container Ship,Xuange
+L'Herminie,25-06-1878,United States (USA),Bulk Carrier,Almaaz
+HMS Vanguard,01-09-1511,United Kingdom (UK),Bulk Carrier,Maasym
+HNoMS Storm,05-02-1776,Greece,Bulk Carrier,Imai
+U-655,06-03-1618,Brazil,Crude Oil Tanker,Gienah
+Jean Richard,11-04-1998,Portugal,Crude Oil Tanker,Enif
+Nisbet Grammer,20-03-1948,Italy,Crude Oil Tanker,Denebola
+Swan,27-12-1748,Greece,Bulk Carrier,Syrma
+Hermes,23-09-1813,Belgium,Container Ship,Bunda
+USS Keokuk,09-02-1808,Canada,Crude Oil Tanker,Kang
+U-596,10-12-1578,Japan,Bulk Carrier,Sadachbia
+SS Empire Explorer,22-08-1649,Turkey,Bulk Carrier,Fuyue
+SS Algeria,14-03-1553,Japan,Container Ship,Taiyi
+SS Pere Marquette 18,18-06-1508,Norway,Container Ship,Intercrus
+HMS Grenade,18-02-1655,Malaysia,Passenger (Cruise) Ship,Alkaid
+Almirante Oquendo,16-04-1729,Poland,Container Ship,Vindemiatrix
+CSS Phoenix,07-08-1694,Canada,Crude Oil Tanker,Hassaleh
+Charlottetown,08-04-1905,United Kingdom (UK),Bulk Carrier,Adhara
+Sacramento,04-09-1761,United Kingdom (UK),Bulk Carrier,Sulafat
+SS Eastfield,08-06-1537,Greece,LNG Tanker,Nekkar
+RMS Queen Elizabeth,18-12-1591,Malaysia,Container Ship,Muphrid
+Esperanto,21-09-1870,India,Bulk Carrier,Alshain
+PS Washington Irving,04-06-1918,United Kingdom (UK),Crude Oil Tanker,Yed Prior
+HMS Graph,02-06-1719,Panama,Bulk Carrier,Kochab
+HMS Tribune,02-05-1796,Japan,Container Ship,Wasat
+SS Wairarapa,14-06-1587,Norway,Bulk Carrier,Denebola
+Numidia,13-06-1973,Madagascar,Container Ship,Atlas
+Northfleet,30-11-1826,Norway,LNG Tanker,Syrma
+HMS Amfitrite,16-06-1932,Malaysia,Bulk Carrier,Nekkar
+HMT Bedfordshire,28-09-1771,United Kingdom (UK),LNG Tanker,Nembus
+HMCS Assiniboine,11-09-1958,Russia,Bulk Carrier,Nahn
+SS Noronic,19-01-1751,France,Bulk Carrier,Mirach
+HMS Serapis,27-06-1643,Greece,LNG Tanker,Secunda Hyadum
+Thomas W. Lawson,31-05-1940,Norway,Bulk Carrier,Muliphein
+The Cape Gelidonya shipwreck,30-08-1766,Japan,LNG Tanker,Fulu
+La Lavia,21-04-1560,Angola,Crude Oil Tanker,Saiph
+Crête-à-Pierrot,13-02-1848,Croatia,Passenger (Cruise) Ship,Dschubba
+USS Lily,30-06-1676,United States (USA),Container Ship,Polis
+Cato,22-05-1523,United Kingdom (UK),Bulk Carrier,Nunki
+USS Mingo,24-06-1877,Sweden,Bulk Carrier,Kraz
+Sovereign of the Seas,12-05-1575,United States (USA),LNG Tanker,Mimosa
+SS Sapona,27-12-1830,United Kingdom (UK),LNG Tanker,Rastaban
+London,04-05-1771,Germany,Crude Oil Tanker,Maasym
+Dixie Sword,30-03-1890,Norway,Container Ship,Kaus Media
+Toyo Maru No 10,27-03-1583,United States (USA),Bulk Carrier,Propus
+Bagé,17-07-1672,Sweden,Container Ship,Maia
+Borodino,23-09-1912,Sweden,Crude Oil Tanker,Botein
+USS SC-694,19-10-1804,Sweden,Bulk Carrier,Alshat
+USS Tiru,11-03-1840,Canada,Bulk Carrier,Caph
+Harpooner,16-01-1903,United States (USA),Bulk Carrier,Terebellum
+Varoon,09-11-1893,Iceland,Bulk Carrier,Bunda
+HMAS Marguerite,06-02-1610,United Kingdom (UK),Crude Oil Tanker,Maia
+HMAS Encounter,09-05-1692,United Kingdom (UK),Bulk Carrier,Seginus
+Arriaga,25-05-1560,Philippines,Bulk Carrier,Tabit
+Struma,08-03-1820,Japan,Bulk Carrier,Caph
+Governor King,10-03-1741,India,LNG Tanker,Tianyi
+U-103,25-02-1574,Argentina,Crude Oil Tanker,Ankaa
+Thérèse,26-05-1869,Portugal,Container Ship,Nihal
+CSS Raleigh,15-07-1951,United States (USA),Bulk Carrier,Sheliak
+Juliet,13-06-1819,Italy,Bulk Carrier,Sheliak
+USS Aspro,24-11-1568,Japan,LNG Tanker,Achird
+Blue Magpie,20-11-1518,China,Bulk Carrier,Iklil
+HMS Good Hope,29-05-1760,Greece,Bulk Carrier,Cujam
+SS Eastland,20-10-1546,Norway,LNG Tanker,Cebalrai
+The Blackfriars III and IV,15-02-1700,Greece,Container Ship,Muphrid
+UB-115,15-04-1938,Sao Tome & Principe,FSO,Chalawan
+SMS Cormoran,04-09-1794,Japan,LNG Tanker,Porrima
+Acielle,15-01-1904,Japan,Bulk Carrier,Sirius
+CSS Alabama,15-09-1622,Russia,Container Ship,Naos
+U-870,31-01-1504,United Kingdom (UK),Bulk Carrier,Hassaleh
+HMS Cassandra,06-02-1533,Japan,LNG Tanker,Kitalpha
+HMS Hawke,19-03-1818,United Kingdom (UK),Container Ship,La Superba
+Star of Greece,30-12-1921,Japan,Bulk Carrier,Alshat
+SS Milwaukee,19-04-1875,India,Container Ship,Algieba
+MV Jupiter,30-10-1572,Canada,LNG Tanker,Anser
+Rjukan,13-11-1816,Argentina,Bulk Carrier,Jishui
+South Australian,25-01-2004,United States (USA),Passenger (Cruise) Ship,Saiph
+USS S-16 (SS-121),21-09-1525,South Africa,LNG Tanker,Syrma
+Montana,10-10-1873,United States (USA),LNG Tanker,Tania Borealis
+Eldorado,19-07-1760,Philippines,Container Ship,Copernicus
+SS Cassimer,13-05-1575,South Africa,Bulk Carrier,Acrux
+Kuroshio Maru,18-07-1882,United States (USA),Container Ship,Phecda
+HMS Matabele,25-06-1540,Latvia,Crude Oil Tanker,Fuyue
+SS Henry Cort,08-11-1874,Angola,Container Ship,Adhafera
+KMP Tampomas II,26-09-1785,Equatorial Guinea,Bulk Carrier,Pherkad
+Cumberland,15-02-1982,United Kingdom (UK),Container Ship,Adhafera
+Akigumo,03-07-1680,United Kingdom (UK),Bulk Carrier,Almaaz
+Barcoo,18-02-1877,Turkmenistan,Bulk Carrier,Arcturus
+Z19 Hermann Künne,28-04-1893,Canada,FSO,Zaurak
+UB-55,25-12-1829,Sweden,Bulk Carrier,Mizar
+MS Mediterranean Sky,13-03-1558,Japan,Bulk Carrier,Albali
+,04-05-1736,Sweden,Container Ship,Meissa
+Amatsukaze,02-03-1952,United States (USA),Crude Oil Tanker,Wurren
+SV Ingrid,04-08-1856,Chile,Container Ship,Rigil Kentaurus
+CSS Virginia,22-10-1844,United States (USA),Bulk Carrier,Rasalas
+USS Northampton,04-08-1991,Finland,Passenger (Cruise) Ship,Arcturus
+HMS Zebra,12-01-1816,United States (USA),Container Ship,Saclateni
+Jorge B.,06-02-1567,United States (USA),LNG Tanker,Fawaris
+SS New York,21-06-1824,Spain,Bulk Carrier,Meridiana
+Z2 Georg Thiele,05-11-1994,Sweden,Container Ship,Alrakis
+HMS Tyger,18-01-1555,Jamaica,Bulk Carrier,Rigil Kentaurus
+Carthaginian II,24-04-1849,Russia,Crude Oil Tanker,Algedi
+Admiral Nicholson,30-10-1686,Italy,Container Ship,Polaris Australis
+Nina T,21-06-1636,Dominican Rep,Crude Oil Tanker,Shaula
+U-263,25-04-1943,Indonesia,Bulk Carrier,Algenib
+Island City,03-07-1607,Croatia,Offshore Support Vessel,Sadr
+HMS Falmouth,30-01-1611,Philippines,Passenger (Cruise) Ship,Deneb Algedi
+London,06-11-1884,St Vincent & Grenadines,Container Ship,Azelfafage
+Bandon,23-12-1751,Madagascar,Crude Oil Tanker,Propus
+USS Gregory,13-05-1993,Mexico,LNG Tanker,Rasalas
+SS Mirlo,22-03-1629,Germany,LNG Tanker,Asellus Australis
+SS Allan Jackson,25-08-1741,United States (USA),Offshore Support Vessel,Marsic
+Jafnhar,06-06-1745,Turkey,Container Ship,Nusakan
+Mahdia,28-10-1990,Portugal,Bulk Carrier,Menkent
+SS Ario,30-06-2007,France,Bulk Carrier,Alderamin
+Pulaski,29-05-1760,Germany,LNG Tanker,Celaeno
+Little Wissahickon,02-08-1768,Norway,Passenger (Cruise) Ship,Errai
+HMS Dasher,16-12-1666,Brazil,Bulk Carrier,Hatysa
+Beaver,22-08-1583,Australia,Bulk Carrier,Arkab Prior
+Barbaros Hayreddin,11-02-1577,Bahamas,Bulk Carrier,Alula Australis
+U-151,28-06-1760,Sweden,Container Ship,Diphda
+SMS Grosser Kurfürst,24-09-1542,Canada,Crude Oil Tanker,Algieba
+Humble SM-1,08-11-1506,Malaysia,LNG Tanker,Menkalinan
+Aycliffe Hall,19-09-1562,Brazil,Container Ship,Asellus Australis
+HMNZS Wellington,20-05-1578,Italy,Bulk Carrier,Lilii Borea
+SS Olympic,13-01-1728,Denmark,Bulk Carrier,Hatysa
+D/S Cadmus,14-06-1587,United States (USA),Bulk Carrier,Alshain
+HMS Attack,13-06-1660,Germany,Crude Oil Tanker,Alsciaukat
+,13-06-1791,Japan,Container Ship,Miram
+SS Milwaukee,21-06-1922,Sweden,Bulk Carrier,Alsephina
+El Nuevo Constante,13-03-1656,United States (USA),LNG Tanker,Fang
+Heredia,12-05-1575,United States (USA),Crude Oil Tanker,Atlas
+SS Proteus,05-08-1756,Norway,Bulk Carrier,Spica
+U-106,21-12-1851,Germany,Container Ship,Secunda Hyadum
+Bantam,09-05-1706,Nauru,Bulk Carrier,Procyon
+Civil War Wreck,15-12-1507,Argentina,Bulk Carrier,Hadar
+USS Dionysus,02-02-1783,Bulgaria,Crude Oil Tanker,Dabih
+Sankisan Maru,07-07-1615,Iceland,Bulk Carrier,Larawag
+Rose Castle,16-11-1798,Korea,Crude Oil Tanker,Rotanev
+HMS Cerberus,06-11-1986,Bahamas,Bulk Carrier,Suhail
+USS Skylark,27-06-1859,United States (USA),Container Ship,Mirzam
+Lupatia,29-03-1940,Togolese Rep,Container Ship,Unurgunite
+SS Ashkhabad,04-04-1617,United States (USA),Crude Oil Tanker,Alya
+Kibi Maru,04-07-1543,United States (USA),LNG Tanker,Naos
+Klondike I,20-01-2009,Japan,Offshore Support Vessel,Fuyue
+Anjou,08-01-1729,Bahamas,Container Ship,Alkarab
+RFA Gray Ranger,08-08-1973,United States (USA),Bulk Carrier,Nekkar
+China Maru,15-08-1508,United Kingdom (UK),Container Ship,Gomeisa
+Murmansk,26-04-1812,Greece,LNG Tanker,Hatysa
+Bandorville,28-10-1852,Brazil,Container Ship,Ainalrami
+North Pacific,08-04-1824,Germany,Container Ship,Fulu
+SS Northeastern,10-01-1816,Mauritius,Container Ship,Menkent
+HMS Amethyst,08-07-1714,United Kingdom (UK),Passenger (Cruise) Ship,Kang
+Estramina,28-08-1831,India,Crude Oil Tanker,Cor Caroli
+U-674,09-09-1718,Japan,Crude Oil Tanker,Bellatrix
+SS Automedon,01-08-1943,Puerto Rico,Container Ship,Kaus Australis
+U-85,04-05-1586,Sweden,Bulk Carrier,Alula Australis
+Recovery,15-03-1616,Japan,Bulk Carrier,Polis
+U-1105,17-06-1655,Iran,Crude Oil Tanker,Tarf
+U-1302,02-05-1654,India,LNG Tanker,Unukalhai
+PT-123,22-12-1861,Thailand,Bulk Carrier,Cujam
+HNoMS Sæl,04-06-1612,Sweden,Bulk Carrier,Sheliak
+SS Polynesien,21-05-1786,United States (USA),Bulk Carrier,Menkar
+SS Umbria,02-09-1698,Sweden,Container Ship,Phact
+USS Buchanan,27-05-1705,United Kingdom (UK),Container Ship,Peacock
+HMS Graph,15-06-1558,Italy,Container Ship,Chalawan
+Fumizuki,19-10-1589,Norway,Container Ship,Alruba
+L.H. Coolidge,20-03-1578,Croatia,Bulk Carrier,Toliman
+USS Carondelet,09-11-1549,Norway,Crude Oil Tanker,Scheat
+Darra,12-08-1736,Estonia,Bulk Carrier,Talitha
+Sekirei Maru,15-01-1526,France,Crude Oil Tanker,Alrakis
+HMS Buffalo,03-01-1888,Canada,Crude Oil Tanker,Enif
+USS Snowden,17-02-1824,United States (USA),Crude Oil Tanker,Alpherg
+SS St. Sunniva,14-02-1880,Japan,Container Ship,Chara
+Elizabeth M,13-06-1660,Sweden,Crude Oil Tanker,Shaula
+Del Norte,29-03-1723,Panama,Crude Oil Tanker,Unukalhai
+C.A. Smith,24-09-1921,Dominican Rep,Crude Oil Tanker,Alya
+Prinz Eugen,07-01-1651,Turkey,Bulk Carrier,Kaus Australis
+Ironsides,28-04-1765,United States (USA),Crude Oil Tanker,Skat
+USS Merrimac,08-02-1796,Sweden,Container Ship,Unukalhai
+Cornelia P. Spencer,02-03-1595,United States (USA),Crude Oil Tanker,Sualocin
+HMS Cerberus,11-11-1661,Russia,Bulk Carrier,Menkalinan
+SV Dido,11-05-1628,St Vincent & Grenadines,LNG Tanker,Asellus Australis
+UB-65,14-02-1981,Chile,Container Ship,Marsic
+Oregon,28-06-1847,Chile,Bulk Carrier,Jishui
+SS Albert Gallatin,06-12-1988,United States (USA),Crude Oil Tanker,Edasich
+USS O-12,01-02-1620,United States (USA),Bulk Carrier,Menkib
+Ajax,02-05-1672,Portugal,Bulk Carrier,Procyon
+RMS Connaught,17-07-1802,United States (USA),Crude Oil Tanker,Meissa
+HMS Effingham,27-10-1696,United States (USA),Bulk Carrier,Aludra
+Taunton,07-07-1594,Japan,Container Ship,Kaus Media
+North Carolina,22-12-1912,Croatia,LNG Tanker,Seginus
+HMS Otus,07-05-1688,Japan,Crude Oil Tanker,Lesath
+USS Wahoo,07-06-1843,Egypt,Bulk Carrier,Errai
+Saros,12-12-1901,Sweden,LNG Tanker,Titawin
+Rjukan,14-11-1762,Greece,Bulk Carrier,Maasym
+UB-115,06-01-1803,Netherlands,LNG Tanker,Atlas
+Governor King,23-09-1753,United States (USA),Bulk Carrier,Ascella
+SS Mirlo,01-08-1752,Portugal,Crude Oil Tanker,Merope
+USAT Brigadier General M. G. Zalinski,27-06-1525,United Kingdom (UK),Bulk Carrier,Izar
+Virginia,12-09-1980,India,Offshore Support Vessel,Zavijava
+SS Glanayron,30-09-1790,United Kingdom (UK),Bulk Carrier,Brachium
+SS Las Choapas,15-12-1881,Brazil,Bulk Carrier,Dziban
+MS Mediterranean Sky,01-08-1980,Madagascar,Container Ship,Lich
+Goulandris,17-11-1676,Chile,Bulk Carrier,Ogma
+Sarah E. Sheldon,07-03-1656,Norway,LNG Tanker,Bunda
+HMAS Goorangai,07-03-1765,United Kingdom (UK),Bulk Carrier,Regulus
+PS Lelia,03-10-1669,Croatia,Crude Oil Tanker,Fang
+RMS Lusitania,24-05-2005,United States (USA),Container Ship,Sargas
+Glenesslin,28-03-1996,Denmark,Bulk Carrier,Lesath
+HMS Falmouth,09-01-1716,United States (USA),Crude Oil Tanker,Gomeisa
+SS Desabla,31-01-1704,Japan,LNG Tanker,Syrma
+UC-65,28-08-1902,Japan,Container Ship,Tonatiuh
+West Cheswald,14-09-1995,Spain,Container Ship,Marfik
+Andy Gibson,05-06-1616,Japan,Container Ship,Praecipua
+Toreshima Maru,05-05-1593,Canada,Bulk Carrier,Yed Prior
+Trouvadore,17-01-1603,United Kingdom (UK),Container Ship,Nunki
+SS Glenartney,21-05-1891,Puerto Rico,Bulk Carrier,Deneb
+Kriegsmarine,12-11-1568,Estonia,LNG Tanker,Tarazed
+OMI Charger,01-04-1992,Qatar,Bulk Carrier,Alya
+U-107,10-12-2009,Sweden,Bulk Carrier,Mebsuta
+Lady Bowen,18-04-1694,Sweden,Bulk Carrier,Maasym
+Nuestra Señora de Encarnación,19-01-1749,Egypt,Bulk Carrier,Maia
+UC-49,26-06-1752,Brazil,Bulk Carrier,Hatysa
+Wave,20-07-1662,Canada,Bulk Carrier,Taiyangshou
+USS Craven,06-10-1535,Canada,Container Ship,Merope
+HMS Porpoise,21-08-1822,Canada,Bulk Carrier,Mizar
+HMS Fox (1799),07-05-1590,Egypt,Bulk Carrier,Mothallah
+SS Empire Cowper,04-07-1543,New Zealand,Bulk Carrier,Ran
+Indiana,15-09-1560,Norway,Crude Oil Tanker,Ankaa
+HMAS Waree,22-06-1508,Italy,LNG Tanker,Alnitak
+HMS Anson,02-01-1897,Portugal,Container Ship,Khambalia
+HMS Hood,28-07-1671,Japan,Container Ship,Alhena
+Willis,17-05-1874,Japan,Bulk Carrier,Mebsuta
+Makigumo,25-11-1649,Italy,LNG Tanker,Alkaphrah
+Kormoran,30-05-1550,Faeroe Islands,Container Ship,Menkent
+HMS Terror,18-04-1895,Angola,Passenger (Cruise) Ship,Sadr
+Cantabria,11-06-1535,Faeroe Islands,Container Ship,Gudja
+USS Yankee,02-11-1651,Brazil,Bulk Carrier,Sadr
+Water Witch,01-03-1920,Germany,Bulk Carrier,Kaus Media
+HMS Undine,11-08-1721,Korea,Container Ship,Castula
+HMS Hermes,17-06-1796,United Kingdom (UK),LNG Tanker,Aldebaran
+Kuroshio Maru,22-09-1555,Bulgaria,Crude Oil Tanker,Mahasim
+Lauenburg,13-01-1563,Greece,Passenger (Cruise) Ship,Theemin
+HMAS Maroubra,06-10-1796,Portugal,Bulk Carrier,Adhil
+SS Persier,25-10-1502,Japan,Crude Oil Tanker,Deneb
+UC-18,17-03-1623,Croatia,Bulk Carrier,Marfik
+HMCS Charlottetown,15-11-1912,Sweden,LNG Tanker,Biham
+U-60,06-09-1742,Philippines,Container Ship,Eltanin
+San Saba,24-04-1960,Norway,Bulk Carrier,Brachium
+USS Elizabeth,01-11-1943,Canada,Passenger (Cruise) Ship,Elgafar
+Andy Gibson,05-01-1964,Argentina,Bulk Carrier,Polaris
+Trial,12-05-1956,Canada,Bulk Carrier,Fafnir
+HMS Kent,08-10-1523,United States (USA),Crude Oil Tanker,Rasalhague
+Bessie Whiting,08-12-1969,New Caledonia,Bulk Carrier,Toliman
+Royal Charter,11-08-1732,Sweden,Container Ship,Mothallah
+SS Papoose,18-12-1880,Iran,Crude Oil Tanker,Porrima
+Riverdance,08-08-1524,New Zealand,Crude Oil Tanker,Lich
+Herakles,05-12-1620,Turkey,Bulk Carrier,Taygeta
+HMS Encounter,24-12-1523,United States (USA),Bulk Carrier,Meridiana
+U-736,31-03-1946,Dominican Rep,LNG Tanker,Algenib
+SS Kassandra Louloudis,11-11-1869,Japan,Bulk Carrier,Arcturus
+Clarion,16-02-1772,Haiti,Bulk Carrier,Toliman
