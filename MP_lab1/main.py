@@ -19,6 +19,9 @@ def line():
     print('-' * 100)
 
 class Ship:
+    """Это класс для работы с объектами класса 'Корабль'
+    Имеет 5 полей: название корабля (name), дата постройки (date), страна постройки (country), тип корабля (ship_type), имя капитана (captain)
+     """
     def __init__(self, name, date, country, ship_type, captain):
         self.name = name
         self.date = date
@@ -120,6 +123,7 @@ def sort_insert(lst, column=0):
 
 # пирамидальная сортировка
 def heapify(lst, n, i):
+    """This is heapify function, it creates a binary tree"""
     largest = i
     left = 2 * i + 1
     right = 2 * i + 2
@@ -187,7 +191,8 @@ def split_and_merge_list(a):
 # ввод данных из файла
 
 data = {}
-n = [100, 1000, 5000, 10000, 50000, 100000]
+#n = [100, 1000, 5000, 10000, 50000, 100000]
+n = [100, 1000, 5000, 10000]
 for i in n:
     unsorted_data = list()
     with open(f'ships_{i}.csv', encoding="utf-8") as file:
