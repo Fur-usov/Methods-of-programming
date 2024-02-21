@@ -30,79 +30,19 @@ class Ship:
         self.captain = captain
 
     def __lt__(self, other):
-        if self.date < other.date:
-            return True
-        elif self.date > other.date:
-            return False
-        else:
-            if self.name < other.name:
-                return True
-            elif self.name > other.name:
-                return False
-            else:
-                if self.ship_type < other.ship_type:
-                    return True
-                else:
-                    return False
-
+        return (self.date, self.name, self.ship_type) < (other.date, other.name, other.ship_type)
 
     def __gt__(self, other):
-        if self.date > other.date:
-            return True
-        elif self.date < other.date:
-            return False
-        else:
-            if self.name > other.name:
-                return True
-            elif self.name < other.name:
-                return False
-            else:
-                if self.ship_type > other.ship_type:
-                    return True
-                else:
-                    return False
-
+        return (self.date, self.name, self.ship_type) > (other.date, other.name, other.ship_type)
 
     def __ge__(self, other):
-        if self.date >= other.date:
-            return True
-        elif self.date < other.date:
-            return False
-        else:
-            if self.name >= other.name:
-                return True
-            elif self.name < other.name:
-                return False
-            else:
-                if self.ship_type >= other.ship_type:
-                    return True
-                else:
-                    return False
+        return (self.date, self.name, self.ship_type) >= (other.date, other.name, other.ship_type)
 
     def __le__(self, other):
-        if self.date <= other.date:
-            return True
-        elif self.date > other.date:
-            return False
-        else:
-            if self.name <= other.name:
-                return True
-            elif self.name > other.name:
-                return False
-            else:
-                if self.ship_type <= other.ship_type:
-                    return True
-                else:
-                    return False
+        return (self.date, self.name, self.ship_type) <= (other.date, other.name, other.ship_type)
 
     def __eq__(self, other):
-        if self.date != other.date:
-            return False
-        if self.name != other.name:
-            return False
-        if self.ship_type != other.ship_type:
-            return False
-        return True
+        return (self.date, self.name, self.ship_type) == (other.date, other.name, other.ship_type)
 
     def pr(self):
         print(f"{self.name}, {self.date}, {self.country}, {self.ship_type}, {self.captain}", end="")
@@ -123,7 +63,7 @@ def sort_insert(lst, column=0):
 
 # пирамидальная сортировка
 def heapify(lst, n, i):
-    """This is heapify function, it creates a binary tree"""
+    """creates a binary tree"""
     largest = i
     left = 2 * i + 1
     right = 2 * i + 2
@@ -141,10 +81,11 @@ def heapify(lst, n, i):
 
 def heap_sort(lst):
     n = len(lst)
-
+    #строим двоичную кучу
     for i in range(n, -1, -1):
         heapify(lst, n, i)
 
+    # Один за другим вытаскиваем элементы из кучи
     for i in range(n - 1, 0, -1):
         lst[i], lst[0] = lst[0], lst[i]
         heapify(lst, i, 0)
@@ -173,7 +114,6 @@ def merge_list(a, b, column=0):
 
 
 # функция деления списка и слияния списков в общий отсортированный список
-
 def split_and_merge_list(a):
     N1 = len(a) // 2
     a1 = a[:N1]  # деление массива на два примерно равной длины
@@ -189,7 +129,6 @@ def split_and_merge_list(a):
 
 
 # ввод данных из файла
-
 data = {}
 #n = [100, 1000, 5000, 10000, 50000, 100000]
 n = [100, 1000, 5000, 10000]
@@ -266,9 +205,6 @@ for i in n:
 
     l = len(unsorted_data)
     data[l] = (time1, time2, time3)
-
-
-
 
 
 
