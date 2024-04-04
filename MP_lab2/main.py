@@ -1,57 +1,40 @@
 import random
+import csv
+import datetime
+from datetime import datetime
+import time
+import matplotlib as plt
+import numpy as np
 
-
-class Worker:
-    def __init__(self, name, post, subdivision, salary):
+class Ship:
+    """Это класс для работы с объектами класса 'Корабль'
+    Имеет 5 полей: название корабля (name), дата постройки (date), страна постройки (country), тип корабля (ship_type), имя капитана (captain)
+     """
+    def __init__(self, name, date, country, ship_type, captain):
         self.name = name
-        self.post = post
-        self.subdivision = subdivision
-        self.salary = salary
-
-    def get_info(self):
-        print(f'{self.name}, {self.post}, {self.subdivision}, {self.salary}')
+        self.date = date
+        self.country = country
+        self.ship_type = ship_type
+        self.captain = captain
 
     def __lt__(self, other):
-        if self.subdivision < other.subdivision:
-            return True
-        elif self.subdivision > other.subdivision:
-            return False
-        else:
-            if self.name < other.name:
-                return True
-            elif self.name > other.name:
-                return False
-            else:
-                if self.salary < other.salary:
-                    return True
-                else:
-                    return False
+        return (self.date, self.name, self.ship_type) < (other.date, other.name, other.ship_type)
 
     def __gt__(self, other):
-        return not self.__lt__(other)
+        return (self.date, self.name, self.ship_type) > (other.date, other.name, other.ship_type)
 
     def __ge__(self, other):
-        if self.subdivision > other.subdivision:
-            return True
-        elif self.subdivision < other.subdivision:
-            return False
-        else:
-            if self.name > other.name:
-                return True
-            elif self.name < other.name:
-                return False
-            else:
-                return self.salary >= other.salary
+        return (self.date, self.name, self.ship_type) >= (other.date, other.name, other.ship_type)
 
     def __le__(self, other):
-        return not self.__ge__(other)
+        return (self.date, self.name, self.ship_type) <= (other.date, other.name, other.ship_type)
 
     def __eq__(self, other):
-        return self.subdivision == other.subdivision and self.name == other.name and self.salary == other.salary
+        return (self.date, self.name, self.ship_type) == (other.date, other.name, other.ship_type)
 
     def pr(self):
-        s = f"{self.name}, {self.post}, {self.subdivision}, {self.salary}"
-        return s
+        print(f"{self.name}, {self.date}, {self.country}, {self.ship_type}, {self.captain}", end="")
+        print()
 
 
 class TreeNode:
@@ -322,6 +305,7 @@ with open('Data_1.csv') as file:
         tree_1.insert(value=r[0], content=w)
         rb_tree_1.insert(val=r[0], content=w)
         table_1[r[0]] = w
+
 
 tree_1.find('Пётр Волков').get_info()
 rb_tree_1.exists('Пётр Волков').get_info()
