@@ -7,8 +7,13 @@ import matplotlib as plt
 import numpy as np
 
 class Ship:
-    """Это класс для работы с объектами класса 'Корабль'
-    Имеет 5 полей: название корабля (name), дата постройки (date), страна постройки (country), тип корабля (ship_type), имя капитана (captain)
+    """Класс для работы с объектами класса 'Корабль'
+    Имеет 5 полей:
+    - название корабля (name)
+    - дата постройки (date)
+    - страна постройки (country)
+    - тип корабля (ship_type)
+    - имя капитана (captain)
      """
     def __init__(self, name, date, country, ship_type, captain):
         self.name = name
