@@ -138,7 +138,7 @@ for i in n:
         next(file)
         for row in file:
             r = row.strip().split(",")
-            w = Ship(r[0], datetime.strptime(r[1], "%d-%m-%Y"), r[2], r[3], r[4])
+            w = Ship(r[0], datetime.strptime(r[1], "%Y-%m-%d"), r[2], r[3], r[4])
             unsorted_data.append(w)
 
 

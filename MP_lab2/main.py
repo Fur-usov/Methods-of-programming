@@ -1,10 +1,13 @@
 import random
+import time
 import csv
 import datetime
 from datetime import datetime
-import time
-import matplotlib as plt
-import numpy as np
+import matplotlib.pyplot as plt
+import timeit
+
+# Создаем таймер
+timer = timeit.default_timer
 
 class Ship:
     """Класс для работы с объектами класса 'Корабль'
@@ -37,9 +40,10 @@ class Ship:
     def __eq__(self, other):
         return (self.date, self.name, self.ship_type) == (other.date, other.name, other.ship_type)
 
-    def pr(self):
+    def get_info(self):
         print(f"{self.name}, {self.date}, {self.country}, {self.ship_type}, {self.captain}", end="")
         print()
+
 
 
 class TreeNode:
@@ -238,12 +242,9 @@ def print_tree(node, lines, level=0):
 
 def get_nums(num):
     random.seed(1)
-
     nums = []
-
     for _ in range(num):
         nums.append(random.randint(1, num - 1))
-
     return nums
 
 
@@ -289,32 +290,89 @@ class HashTable:
                 del self.arr[hsh][idx]
 
     def get_collisions_number(self):
-        print(self.__collisions)
+        return self.__collisions
 
     def pr(self):
         for i in self.arr:
             print(i)
 
 
-with open('Data_1.csv') as file:
-    next(file)
-    row_count = sum(1 for row in file)
-    file.seek(0)
-    next(file)
-    tree_1 = TreeNode()
-    rb_tree_1 = RBTree()
-    table_1 = HashTable(row_count)
-    for row in file:
-        r = row.split(",")
-        w = Worker(r[0], r[1], r[2], int(r[3]))
-        tree_1.insert(value=r[0], content=w)
-        rb_tree_1.insert(val=r[0], content=w)
-        table_1[r[0]] = w
+
+bin_tree_time, rb_tree_time, hash_table_time, collision_number, dictionary_time = {}, {}, {}, {}, {}
+
+target = 'Titanic'
+
+for i in [100, 1000, 5000, 10000, 20000, 40000, 50000, 100000]:
+
+    with open(f'ships_{i}.csv') as file:
+
+        next(file)
+        lines = file.readlines()
+        row_count = len(lines)
+
+        #создание структур хранения
+        binary_tree1 = TreeNode()
+        red_black_tree1 = RBTree()
+        hash_table1 = HashTable(row_count)
+        def_dict = {}
+
+        #заполнение данными
+        for row in lines:
+            r = row.strip().split(",")
+            w = Ship(r[0], datetime.strptime(r[1], "%Y-%m-%d"), r[2], r[3], r[4])
+
+            binary_tree1.insert(value=r[0], content=w)
+            red_black_tree1.insert(val=r[0], content=w)
+            hash_table1[r[0]] = w
+            def_dict[r[0]] = w
 
 
-tree_1.find('Пётр Волков').get_info()
-rb_tree_1.exists('Пётр Волков').get_info()
-# print(rb_tree_1)
-table_1['Пётр Волков'].get_info()
-table_1.get_collisions_number()
-# table_1.pr()
+        #поиск элементов и подсчет времени
+
+
+        start_time1 = timer()
+        binary_tree1.find(target).get_info()  # поиск в бинарном дереве
+        end_time1 = timer()
+        time1 = end_time1 - start_time1
+        bin_tree_time[i] = time1
+
+
+        start_time2 = timer()
+        red_black_tree1.exists(target).get_info()  # поиск в красно-черном дереве
+        end_time2 = timer()
+        time2 = end_time2 - start_time2
+        rb_tree_time[i] = time2
+
+
+        start_time3 = timer()
+        hash_table1[target].get_info()  # поиск в хэш таблице.
+        end_time3 = timer()
+        time3 = end_time3 - start_time3
+        hash_table_time[i] = time3
+
+
+        start_time4 = timer()
+        def_dict[target]  # поиск в ассоциативном массиве
+        end_time4 = timer()
+        time4 = end_time4 - start_time4
+        dictionary_time[i] = time4
+
+        collision_number[i] = hash_table1.get_collisions_number()  # вывод количества коллизий
+
+
+
+dicts = [bin_tree_time, rb_tree_time, hash_table_time, dictionary_time, collision_number]
+dict_names = ['Binary Tree', 'Red-Black Tree', 'Hash Table', 'Dictionary', 'Collision Number']
+colors = ['b', 'g', 'r', 'c', 'm', 'i', 'k', 'p']
+
+for idx, d in enumerate(dicts):
+    plt.figure(idx)
+    plt.title(dict_names[idx])
+    plt.xlabel('Keys')
+    plt.ylabel('Values')
+    # Добавьте цвет на график
+    plt.plot(list(d.keys()), list(d.values()), color=colors[idx])
+    plt.show()
+
+
+print(f'\nbin_tree_time: {bin_tree_time}', f'rb_tree_time: {rb_tree_time}', f'hash_table_time: {hash_table_time}', f'dictionary_time: {dictionary_time}', f'collision_number{collision_number}', sep='\n')
