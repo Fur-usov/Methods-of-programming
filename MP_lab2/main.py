@@ -68,7 +68,7 @@ class TreeNode:
             else:
                 self.right.insert(value, content)
 
-    def traversal(self):
+    def traversal(self): # инфиксны обход (по возрастанию значений)
         if self.left:
             self.left.traversal()
         print(self.value, self.content)
@@ -302,7 +302,7 @@ bin_tree_time, rb_tree_time, hash_table_time, collision_number, dictionary_time 
 
 target = 'Titanic'
 
-for i in [100, 1000, 5000, 10000, 20000, 40000, 50000, 100000]:
+for i in [100, 1000, 5000, 10000, 20000]:
 
     with open(f'ships_{i}.csv') as file:
 
